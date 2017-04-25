@@ -9,8 +9,7 @@ relative_permalinks: false
 # Setup
 title:            Weiwei Chen
 #tagline:          'A Jekyll theme'
-description:      'Ph.D. candidate at Institute of Logic and Cognition, Sun Yat-sen University. Guest PhD candidate at ILLC, University of Amsterdam.
-'
+description:      'Ph.D. candidate, Institute of Logic and Cognition, Sun Yat-sen University, ILLC, University of Amsterdam.'
 url:              http://chenww.com
 baseurl:          /
 

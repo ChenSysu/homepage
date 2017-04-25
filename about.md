@@ -11,7 +11,7 @@ He is a Ph.D. candidate at Institute of Logic and Cognition, Department of Philo
 
 he obtained my master degree in Logic from Sun Yat-sen University and did a bachelor of Computer Science at Guangzhou University, China.
 
-He enjoy writing about himself in the third person
+He enjoy writing about himself in the third person.
 
 ## Papers and Talks
 * W. Chen and U. Endriss. Preservation of Semantic Properties during the Aggregation of Abstract Argumentation Frameworks. Working Paper, 2017.

@@ -22,9 +22,4 @@ There are currently two themes built on Poole:
 Learn more and contribute on [GitHub](https://github.com/poole).
 
 ## Papers and Talks
-
-Some fun facts about the setup of this project include:
-
-* Workshop For Ph.D Students in Philosophy of Five Universities, November 20--23, 2015 Wuhan, Hubei, China
 * W. Chen and U. Endriss. Preservation of Semantic Properties during the Aggregation of Abstract Argumentation Frameworks. Working Paper, 2017.
-* Workshop on Future Directions in Computational Social Choice, Budapest, November 2016

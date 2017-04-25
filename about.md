@@ -6,7 +6,7 @@ title:
 <p class="message">
   Hi there!
 </p>
-# about me
+# about
 
 I’m a Ph.D. candidate at Institute of Logic and Cognition, Department of Philosophy, Sun Yat-sen University, China. I’m also a Guest Ph.D. candidate at Institute for Logic, Language and Computation, University of Amsterdam, the Netherlands.
 

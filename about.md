@@ -7,9 +7,9 @@ title:
   Hi there!
 </p>
 ## About
-Weiwei is a Ph.D. candidate at Institute of Logic and Cognition, Department of Philosophy, Sun Yat-sen University, China. I’m also a Guest Ph.D. candidate at Institute for Logic, Language and Computation, University of Amsterdam, the Netherlands.
+Weiwei is a Ph.D. candidate at Institute of Logic and Cognition, Department of Philosophy, Sun Yat-sen University, China. He is also a Guest Ph.D. candidate at Institute for Logic, Language and Computation, University of Amsterdam, The Netherlands.
 
-he obtained my master degree in Logic from Sun Yat-sen University and did a bachelor of Computer Science at Guangzhou University, China.
+he obtained his master degree in Logic from Sun Yat-sen University and did a bachelor of Computer Science at Guangzhou University, China.
 
 He enjoy writing about himself in the third person.
 

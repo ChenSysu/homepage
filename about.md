@@ -12,8 +12,8 @@ I’m a Ph.D. candidate at Institute of Logic and Cognition, Department of Philo
 
 I obtained my master degree in Logic from Sun Yat-sen University and did a bachelor of Computer Science at Guangzhou University, China.
 
-## Contact
-
-
 ## Papers and Talks
 * W. Chen and U. Endriss. Preservation of Semantic Properties during the Aggregation of Abstract Argumentation Frameworks. Working Paper, 2017.
+
+## Contact
+

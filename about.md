@@ -4,8 +4,14 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hi there!
 </p>
+
+I’m a Ph.D. candidate at Institute of Logic and Cognition, Sun Yat-sen University, China. I’m also a Guest Ph.D. candidate at Institute for Logic, Language and Computation, University of Amsterdam, the Netherlands.
+
+I obtained my master degree in Logic from Sun Yat-sen University and did a bachelor of Computer Science at Guangzhou University, China.
+
+I am working on argumentation theory and social choice theory. I'm also interested in Artificial Intelligence, philosophy.
 
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 

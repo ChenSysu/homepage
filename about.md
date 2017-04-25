@@ -11,7 +11,7 @@ Weiwei is a Ph.D. candidate at Institute of Logic and Cognition ([ILC](http://lo
 
 Weiwei's research falls in interdisciplinary areas of logic, language, artificial intelligence and philosophy. Now Weiwei's research has been to get a better understanding of how best to aggregate the argumentative positions of several individual agents. 
 
-Now Weiwei is a member of [Computational Social Choice Group](https://staff.fnwi.uva.nl/u.endriss/group.php) organized by [Ulle Endriss](https://staff.fnwi.uva.nl/u.endriss/).
+Currently Weiwei is a member of [Computational Social Choice Group](https://staff.fnwi.uva.nl/u.endriss/group.php) organized by [Ulle Endriss](https://staff.fnwi.uva.nl/u.endriss/).
 
 He obtained his master degree in Logic from Sun Yat-sen University and did a bachelor of Computer Science at Guangzhou University, China.
 

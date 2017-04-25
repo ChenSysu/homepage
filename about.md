@@ -17,5 +17,4 @@ You can see his profile and picture in [here](https://www.illc.uva.nl/People/sho
 
 
 ## Contact
-* Science Park 107
 * chenww26[at]mail2.sysu.edu.cn

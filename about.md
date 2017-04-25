@@ -13,7 +13,7 @@ he obtained his master degree in Logic from Sun Yat-sen University and did a bac
 
 He enjoy writing about himself in the third person.
 
-You can see his profile picture in [here](https://www.illc.uva.nl/People/show_person.php?Person_id=Chen+W.)
+You can see his picture in [here](https://www.illc.uva.nl/People/show_person.php?Person_id=Chen+W.)
 
 
 ## Contact

@@ -9,7 +9,7 @@ relative_permalinks: false
 # Setup
 title:            Weiwei Chen
 #tagline:          'A Jekyll theme'
-description:      'Ph.D. candidate at Institute of Logic and Cognition, Sun Yat-sen University, ILLC, University of Amsterdam.'
+description:      'Whereof one cannot speak, thereof one must be silent.'
 url:              http://chenww.com
 baseurl:          /
 

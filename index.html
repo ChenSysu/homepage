@@ -2,12 +2,4 @@
 layout: default
 title: Home
 ---
-
- <div class="sidebar-about">
-      <h2>
-        <a href="{{ site.baseurl }}">
-          {{ site.title }}
-        </a>
-      </h2>
-      <p class="lead">{{ site.description }}</p>
-    </div>
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>

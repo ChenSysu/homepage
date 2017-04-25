@@ -11,8 +11,6 @@ I’m a Ph.D. candidate at Institute of Logic and Cognition, Sun Yat-sen Univers
 
 I obtained my master degree in Logic from Sun Yat-sen University and did a bachelor of Computer Science at Guangzhou University, China.
 
-I am working on argumentation theory and social choice theory. I'm also interested in Artificial Intelligence, philosophy.
-
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
 There are currently two themes built on Poole:

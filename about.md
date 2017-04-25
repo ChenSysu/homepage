@@ -1,6 +1,6 @@
 ---
 layout: page
-title: abc
+title: 
 ---
 
 # about me

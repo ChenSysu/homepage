@@ -16,7 +16,7 @@ He enjoy writing about himself in the third person.
 You can see his profile and picture in [here](https://www.illc.uva.nl/People/show_person.php?Person_id=Chen+W.)
 
 ## Papers and Talks
-* W. Chen and U. Endriss. Preservation of Semantic Properties during the Aggregation of Abstract Argumentation Frameworks. Working Paper, 2017.
+* 
 
 ## Contact
 * Science Park 107

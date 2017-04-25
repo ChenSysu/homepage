@@ -15,8 +15,6 @@ He enjoy writing about himself in the third person.
 
 You can see his profile and picture in [here](https://www.illc.uva.nl/People/show_person.php?Person_id=Chen+W.)
 
-## Papers and Talks
-* 
 
 ## Contact
 * Science Park 107

@@ -7,7 +7,7 @@ title:
   Hi there!
 </p>
 ## About
-Weiwei is a Ph.D. candidate at Institute of Logic and Cognition ([ILC](http://logic.sysu.edu.cn/english/Index.html)) and [Department of Philosophy](http://philosophy.sysu.edu.cn/), [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm), China. He is also a Guest Ph.D. candidate at Institute for Logic, Language and Computation ([ILLC](https://www.illc.uva.nl/)), [University of Amsterdam](http://www.uva.nl/en/home), The Netherlands.
+This is Weiwei Chen's (陈伟伟) homepage. Weiwei is a Ph.D. candidate at Institute of Logic and Cognition ([ILC](http://logic.sysu.edu.cn/english/Index.html)) and [Department of Philosophy](http://philosophy.sysu.edu.cn/), [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm), China. He is also a Guest Ph.D. candidate at Institute for Logic, Language and Computation ([ILLC](https://www.illc.uva.nl/)), [University of Amsterdam](http://www.uva.nl/en/home), The Netherlands.
 
 Weiwei's research falls in interdisciplinary areas such as logic, language, artificial intelligence and philosophy. Now Weiwei's research has been to get a better understanding of how best to aggregate the argumentative positions of several individual agents. 
 

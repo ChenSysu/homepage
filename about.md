@@ -13,7 +13,7 @@ Weiwei's research falls in interdisciplinary areas such as logic, language, arti
 
 Currently he is a member of [Computational Social Choice Group](https://staff.fnwi.uva.nl/u.endriss/group.php) organized by [Ulle Endriss](https://staff.fnwi.uva.nl/u.endriss/).
 
-He obtained his master degree in Logic from Sun Yat-sen University and did a bachelor of Computer Science at Guangzhou University, China.
+He obtained his master's degree in Logic from Sun Yat-sen University and did a bachelor of Computer Science at Guangzhou University, China.
 
 He enjoys writing about himself in the third person.
 

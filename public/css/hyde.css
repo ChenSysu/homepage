@@ -37,13 +37,13 @@ html {
 }
 @media (min-width: 48em) {
   html {
-    font-size: 8px;
+    font-size: 12px;
     font-weight: 100;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 10px;
+    font-size: 14px;
     font-weight: 100;
   }
 }

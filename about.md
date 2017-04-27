@@ -3,7 +3,7 @@ layout: page
 title: 
 ---
 
-<p class="message" font-weight:100>
+<p class="message">
   Hi there!
 </p>
 ## About

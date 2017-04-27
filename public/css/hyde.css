@@ -97,7 +97,7 @@ a.sidebar-nav-item:focus {
   text-decoration: underline;
 }
 .sidebar-nav-item.active {
-  font-weight: normal;
+  font-weight: 100;
 }
 
 /* Sticky sidebar

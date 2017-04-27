@@ -9,7 +9,7 @@ relative_permalinks: false
 # Setup
 title:            Weiwei Chen
 #tagline:          'A Jekyll theme'
-description:      'My propositions serve as elucidations in the following way: anyone who understands me eventually recognizes them as nonsensical, when he has used them—as steps—to climb beyond them. (He must, so to speak, throw away the ladder after he has climbed up it.) He must transcend these propositions, and then he will see the world aright. - Wittgenstein'
+description:      'anyone who understands me eventually recognizes them as nonsensical, when he has used them—as steps—to climb beyond them. (He must, so to speak, throw away the ladder after he has climbed up it.) He must transcend these propositions, and then he will see the world aright. - Wittgenstein'
 url:              http://chenww.com
 baseurl:          /
 

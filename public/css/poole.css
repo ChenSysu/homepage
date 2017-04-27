@@ -51,12 +51,12 @@ html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  font-weight: 100;
+  font-weight: 900;
 }
 @media (min-width: 38em) {
   html {
     font-size: 20px;
-    font-weight: 100;
+    font-weight: 900;
   }
 }
 
@@ -84,29 +84,29 @@ a:focus {
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
-  font-weight: 100;
+  font-weight: 900;
   line-height: 1.25;
   color: #313131;
   text-rendering: optimizeLegibility;
 }
 h1 {
   font-size: 2rem;
-  font-weight: 100;
+  font-weight: 900;
 }
 h2 {
   margin-top: 1rem;
   font-size: 1.5rem;
-  font-weight: 100;
+  font-weight: 900;
 }
 h3 {
   margin-top: 1.5rem;
   font-size: 1.25rem;
-  font-weight: 100;
+  font-weight: 900;
 }
 h4, h5, h6 {
   margin-top: 1rem;
   font-size: 1rem;
-  font-weight: 100;
+  font-weight: 900;
 }
 
 /* Body text */
@@ -127,7 +127,7 @@ ul, ol, dl {
 }
 
 dt {
-  font-weight: 100;
+  font-weight: 900;
 }
 dd {
   margin-bottom: .5rem;
@@ -144,7 +144,7 @@ hr {
 
 abbr {
   font-size: 85%;
-  font-weight: 100;
+  font-weight: 900;
   color: #555;
   text-transform: uppercase;
 }
@@ -157,12 +157,12 @@ abbr[title] {
 code,
 pre {
   font-family: Menlo, Monaco, "Courier New", monospace;
-  font-weight: 100;
+  font-weight: 900;
 }
 code {
   padding: .25em .5em;
   font-size: 85%;
-  font-weight: 100;
+  font-weight: 900;
   color: #bf616a;
   background-color: #f9f9f9;
   border-radius: 3px;
@@ -173,7 +173,7 @@ pre {
   margin-bottom: 1rem;
   padding: 1rem;
   font-size: .8rem;
-  font-weight: 100;
+  font-weight: 900;
   line-height: 1.4;
   white-space: pre;
   white-space: pre-wrap;
@@ -184,7 +184,7 @@ pre {
 pre code {
   padding: 0;
   font-size: 100%;
-  font-weight: 100;
+  font-weight: 900;
   color: inherit;
   background-color: transparent;
 }
@@ -201,7 +201,7 @@ pre code {
 /* Gist via GitHub Pages */
 .gist .gist-file {
   font-family: Menlo, Monaco, "Courier New", monospace !important;
-  font-weight: 100;
+  font-weight: 900;
 }
 .gist .markdown-body {
   padding: 15px;
@@ -212,7 +212,7 @@ pre code {
 }
 .gist .gist-file .gist-data {
   font-size: .8rem !important;
-  font-weight: 100;
+  font-weight: 900;
   line-height: 1.4;
 }
 .gist code {
@@ -272,7 +272,7 @@ tbody tr:nth-child(odd) th {
 
 .lead {
   font-size: 1.25rem;
-  font-weight: 100;
+  font-weight: 900;
 }
 
 
@@ -327,7 +327,7 @@ tbody tr:nth-child(odd) th {
 }
 .masthead-title small {
   font-size: 75%;
-  font-weight: 100;
+  font-weight: 900;
   color: #c0c0c0;
   letter-spacing: 0;
 }

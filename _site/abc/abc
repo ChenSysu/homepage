@@ -1,0 +1,30 @@
+# Site settings
+title: "Oh, hello!"
+mazin: "Portfolio"
+email: hello@aynsleylongridge.com
+url: http://127.0.0.1:4000/
+description: "I'm Aynsley, welcome to my portfolio site!"
+baseurl: 
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Aynsley Longridge
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/aynsley25
+  - title: instagram
+    url: https://www.instagram.com/ayns_123/
+  - title: dribbble
+    url: https://dribbble.com/AynsleyLongridge 
+  - title: github
+    url: https://github.com/AynsleyLongridge
+
+# Build settings
+markdown:
+permalink: 

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Weiwei Chen</title>
+ <link href="http://chenww.com/atom.xml" rel="self"/>
+ <link href="http://chenww.com/"/>
+ <updated>2017-10-29T22:21:43+08:00</updated>
+ <id>http://chenww.com</id>
+ <author>
+   <name>Mark Otto</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>“Birthday Cake”</title>
+   <link href="http://chenww.com/2017/09/01/cake/"/>
+   <updated>2017-09-01T00:00:00+08:00</updated>
+   <id>http://chenww.com/2017/09/01/cake</id>
+   <content type="html">&lt;iframe frameborder=&quot;0&quot; width=&quot;640&quot; height=&quot;498&quot; src=&quot;https://v.qq.com/iframe/player.html?vid=e0545i276uj&amp;amp;tiny=0&amp;amp;auto=0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ulysses</title>
+   <link href="http://chenww.com/2017/08/30/ulysses/"/>
+   <updated>2017-08-30T00:00:00+08:00</updated>
+   <id>http://chenww.com/2017/08/30/ulysses</id>
+   <content type="html">&lt;h2 id=&quot;welcome-to-ulysses--overview&quot;&gt;Welcome to Ulysses – Overview&lt;/h2&gt;
+
+&lt;p&gt;Nice to see you here! By now you’ve probably skipped this introduction and manically clicked on what few buttons are visible on screen. That’s alright, let it out.&lt;/p&gt;
+
+&lt;p&gt;As soon as you’re ready, we should cover some basics:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;We believe that writing is about content, about what you want to say – not about fancy formatting. This is why writing in Ulysses means writing plain text, but at the same time more than plain text. We call it “plain text enhanced”. We will come back to this later.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ulysses is a single-library app, and all your texts live in this single library. There is no “Open”, no “Save”, no Finder access — it all happens right inside this window.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ulysses fully utilizes iCloud for storing your texts, if you allow it to do so. You can then access your texts from all of your Macs, iPads and iPhones, at home or on the go. They’ll sync automatically as soon (or as long) as you’re connected to the web.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ulysses does not offer WYSIWYG (What You See Is What You Get) styles and formats. Instead, your text will be automatically formatted once you export it, be it as a PDF, a web page, or an ebook.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Most importantly, Ulysses is built to grow and adapt. You can use it as a sophisticated notepad, you can create your next Great American Novel. You can feed your blog, keep everything neatly organized, or mess around at will.&lt;/p&gt;
+
+&lt;p&gt;There is no “right” way to do things here, so make yourself comfortable, and make it your own.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Birthday</title>
+   <link href="http://chenww.com/2017/08/17/birthday/"/>
+   <updated>2017-08-17T00:00:00+08:00</updated>
+   <id>http://chenww.com/2017/08/17/birthday</id>
+   <content type="html">&lt;p&gt;One of his friend’s birthday was about to come. They wanted to celebrate her birthday and gave her some presents.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, the friend told them that she didn’t want to celebrate her birthday, neither receiving any presents from friends.&lt;/p&gt;
+
+&lt;p&gt;So they decided to give her some special surprise.&lt;/p&gt;
+
+&lt;p&gt;On one day before her birthday, they visited her home. They took away some of her belongings without informing her.&lt;/p&gt;
+
+&lt;p&gt;Nothing happened until her birthday.&lt;/p&gt;
+
+&lt;p&gt;On her birthday, they gathered and started showing her birthday presents after dinner. After unpacking the first present, she was surprised to see that it is a vase which looks so similar to the one she owns.&lt;/p&gt;
+
+&lt;p&gt;Then she unpacked the second present, she was screaming while she realised that it is a watch, and shouted, “I have one which is exactly the same as this one!”&lt;/p&gt;
+
+&lt;p&gt;She continued to unpack the presents without note anything unusual until she opened one which was a photo of she and her mother taken at the time when she was a child. The photo was decorated in a fine frame. She crying when she finally realised that all the presents are from her.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Rising Call to Promote STEM Education and Cut Liberal Arts Funding</title>
+   <link href="http://chenww.com/2017/08/14/risk/"/>
+   <updated>2017-08-14T00:00:00+08:00</updated>
+   <id>http://chenww.com/2017/08/14/risk</id>
+   <content type="html">&lt;p&gt;When the Kentucky governor, Matt Bevin, suggested last month that students majoring in French literature should not receive state funding for their college education, he joined a growing number of elected officials who want to nudge students away from the humanities and toward more job-friendly subjects like electrical engineering.&lt;/p&gt;
+
+&lt;p&gt;Frustrated by soaring tuition costs, crushing student loan debt and a lack of skilled workers, particularly in science and technology, more and more states have adopted the idea of rewarding public colleges and universities for churning out students educated in fields seen as important to the economy.&lt;/p&gt;
+
+&lt;p&gt;When it comes to dividing the pot of money devoted to higher education, at least 15 states offer some type of bonus or premium for certain high-demand degrees, according to the National Conference of State Legislatures.&lt;/p&gt;
+
+&lt;p&gt;“There will be more incentives to electrical engineers than French literature majors, there just will,” Mr. Bevin, a Republican, said after announcing his spending plan. “All the people in the world who want to study French literature can do so; they’re just not going to be subsidized by the taxpayers like engineers will be, for example.”&lt;/p&gt;
+
+&lt;p&gt;Or, as Gov. Patrick McCrory of North Carolina once put it, higher-education funding should not be “based on butts in seats, but on how many of those butts can get jobs.”&lt;/p&gt;
+
+&lt;p&gt;What has incensed many educators is not so much the emphasis on work force development but the disdain for the humanities, particularly among Republicans. Several Republicans have portrayed a liberal arts education as an expendable, sometimes frivolous luxury that taxpayers should not be expected to pay for. The Republican presidential candidate Senator Marco Rubio, for example, has called for more welders and fewer philosophers. Gov. Rick Scott of Florida criticized anthropologists, and Mr. McCrory belittled gender studies.&lt;/p&gt;
+
+&lt;p&gt;Democrats have, for the most part, avoided denouncing the humanities, but they have argued that education and training should be better aligned with the job market.&lt;/p&gt;
+
+&lt;p&gt;The Obama administration, for example, proposed, much to the horror of many in academia, rating the country’s 7,000 colleges and universities not only on measures like completion rates and student loan debt, but also on earnings after graduation. Dozens of states have already moved to performance-based goals that more closely tie a portion of their higher education funding to particular outcomes like degrees earned or courses completed.&lt;/p&gt;
+
+&lt;p&gt;But the particular focus on jobs and earnings — originally limited to vocational programs and community colleges — is gaining momentum.&lt;/p&gt;
+
+&lt;p&gt;“There’s a deeper question of what public money should be used for,” said Anthony Carnevale, a Georgetown University professor who runs the Center on Education and the Workforce.&lt;/p&gt;
+
+&lt;p&gt;Education tends to be justified in terms of personal exploration and fulfillment, as well as creating informed citizens who make a functioning democracy possible. The humanities have traditionally been seen as crucial to both endeavors.&lt;/p&gt;
+
+&lt;p&gt;“The problem is that education is now the principal determinant of earnings, and we pay no attention to it at all. That’s gone too far,” Mr. Carnevale said. “There’s a lot of buyers’ regret out there.”&lt;/p&gt;
+
+&lt;p&gt;Mr. Carnevale argues that there should be much more information available to students about employment and wage prospects before they choose a major so that they can make informed choices. “We don’t want to take away Shakespeare. We’re just talking about helping people make good decisions,” he said. “You can’t be a lifelong learner if you’re not a lifelong earner.”&lt;/p&gt;
+
+&lt;p&gt;A graduate with a higher-earning degree could make up to $4 million more in lifetime earnings than other college graduates, Mr. Carnevale said. Most of the top earners in the liberal arts end up matching only the bottom earners in science, technology, engineering and mathematics — known as the STEM fields — and some will earn less than high school graduates who have vocational skills, like welders and mechanics.&lt;/p&gt;
+
+&lt;p&gt;A recent salary survey from the National Association of Colleges and Employers, a nonprofit membership organization that connects campus career officers with business recruiters, found once again that new STEM graduates were expected to command the highest overall average salaries in 2016. New engineers, for example, are expected to earn nearly $65,000 a year.&lt;/p&gt;
+
+&lt;p&gt;The average salary for new graduates who majored in humanities — including French literature — is projected to increase slightly from last year to $46,065, up from $45,042. Although data is more limited, these graduates seem to attract the most interest from employers in finance, insurance and real estate, the survey found. The average for social science majors is $46,585.&lt;/p&gt;
+
+&lt;p&gt;But informing students better is one thing. Penalizing certain majors in the form of reduced funding is another.&lt;/p&gt;
+
+&lt;p&gt;In his address to the Kentucky General Assembly, Mr. Bevin said, “The net result of putting public tax dollars into education is to ensure that we actually are graduating people that can go into the work force.”&lt;/p&gt;
+
+&lt;p&gt;Not surprisingly, humanities professors were among the most vocal critics of Mr. Bevin’s remarks. In an op-ed article last month in The Lexington Herald-Leader, Jeffrey N. Peters, who teaches French literature at the University of Kentucky, noted that Mr. Bevin graduated from the liberal arts university Washington and Lee with a bachelor’s degree in Japanese and East Asian Studies after studying abroad in Japan.&lt;/p&gt;
+
+&lt;p&gt;“I would like to thank Bevin for drawing on that formative experience to remind Kentuckians during his Tuesday budget presentation that the study of world languages, literatures and cultures is a valuable pursuit that has led countless college students to successful careers in education, business, international relations, the arts and — as his own story demonstrates — public service,” Mr. Peters wrote.&lt;/p&gt;
+
+&lt;p&gt;Mr. Bevin’s office offered few details about precisely how the funding formula would work. But in general, the trend of reducing funding the humanities and providing added incentives for STEM majors at public institutions would mean that a liberal arts education would be increasingly limited to those who could afford to attend expensive private institutions.&lt;/p&gt;
+
+&lt;p&gt;Other critics expressed concerns about allowing government officials to pick work force winners and losers.&lt;/p&gt;
+
+&lt;p&gt;“We are not good at predicting what jobs are going to be required in five years and 10 years down the road,” said Debra Humphreys, a senior vice president at the Association of American Colleges and Universities. She worries that underfunding the humanities will not only undermine educational quality but be bad economic policy. “You run a huge risk when you say you are going to divert money from this major to that major.”&lt;/p&gt;
+
+&lt;p&gt;Research by the association shows that employers are not as focused on individual majors as they are on the kind of broad-based analytic, communications and problem-solving skills that a humanities education specializes in, Ms. Humphreys said.&lt;/p&gt;
+
+&lt;p&gt;The question of whether to reward colleges for turning out STEM graduates or for higher job placement rates has generated a lot of debate in Tennessee, where all of the state’s higher education funding is tied to various performance measures, said Russ Deaton, the interim executive director of Tennessee’s Higher Education Commission.&lt;/p&gt;
+
+&lt;p&gt;“I’m not sure I trust myself to decide which degree programs or which fields deserve that premium and what that premium should be,” Mr. Deaton said.&lt;/p&gt;
+
+&lt;p&gt;“A lot of the feedback we get from employers is not only about the necessity of technical skills, but the soft skills as well — the ability to think creatively, to work in groups, things that you traditionally get in the liberal arts,” he said. “It’s not as simple as STEM is valued and worthy of incentives and everything else is not.”&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Engineering Is The New Liberal Arts</title>
+   <link href="http://chenww.com/2017/08/14/liberal/"/>
+   <updated>2017-08-14T00:00:00+08:00</updated>
+   <id>http://chenww.com/2017/08/14/liberal</id>
+   <content type="html">&lt;p&gt;A degree in Liberal Arts has long been considered the most adaptable, with humanitarian and societal studies that prepare graduates to enter a wide variety of careers. This comes with good reason: Without progressing and promoting the Liberal Arts we may not have the music, films, creative writing and art that have the power to spark creativity in our daily lives.&lt;/p&gt;
+
+&lt;p&gt;During the recession we witnessed a job market that experienced an unprecedented shift. As unemployment surged, more students opted to forego Liberal Arts studies and instead explore an area that showed increasing demand: engineering. A study from Edgeworth Economics shows that both men and women began moving away from Liberal Arts studies as soon as unemployment increased by .6 percent. What resulted was more men entering into engineering degree programs, and an increase in women entering an array of technical course studies, including nursing, computer-science and technical health.&lt;/p&gt;
+
+&lt;p&gt;While unemployment has stabilized, the trend is clear: Engineering has and continues to provide an educational backbone and valuable skillset that is highly applicable in today’s digital-first society. As the CEO of connected technologies company HARMAN, which employs approximately 10,000 engineers, and as an engineer myself, I believe it is important to nurture an understanding of the many doors opened by an engineering background.  With National Engineers Week upon us, it’s a prime moment to examine not only what engineers have done, but what engineers can do for the future.&lt;/p&gt;
+
+&lt;p&gt;##The Truth About Engineering&lt;/p&gt;
+
+&lt;p&gt;Engineering has proven to be one of the most fruitful tracks of study in the job market, as the skills and training developed by an engineering program are far more versatile than many believed.&lt;/p&gt;
+
+&lt;p&gt;Engineers have shown to embody a tremendous amount of leadership skills through the collaborative educational environment. According to Harvard Business Review’s Best Performing CEOs in the World, 24 percent of those included on the list have studied engineering. Nitin Nohria, the dean of Harvard Business School, notes that this is likely due to the fact that an education in engineering “is about what works, and it breeds an ethos of building things that work – whether it’s a machine structure, or an organization.” Being a CEO requires a specific skill set, and a background in engineering equips individuals with the ability to plan logically and make decisions that fit properly within the context of the business.&lt;/p&gt;
+
+&lt;p&gt;This implies that people with engineering backgrounds may develop an acute business instinct that comes less intuitively to others. Skills like time management, creative problem solving, a strong detail orientation, effective communication and a high level of technological understanding are all absolutely vital for a modern business leader. The highly adaptable and logical thought process instilled in engineering students promotes a high level of problem solving that is naturally applicable to management. Although technology is certainly a focus in any engineering program, engineering is a discipline deeply rooted in discovery and lays the groundwork for innovation and entrepreneurship. While having the skills to put plans into action is imperative, the ability to devise creative solutions to complex problems is at the heart of the discipline. This trait is indispensable to good leaders.&lt;/p&gt;
+
+&lt;p&gt;Further evidence of the versatile nature of engineering comes from Discovere, which notes that more than half of all people with engineering degrees work in non-technical industries, such as medicine, law, investment banking and consulting. A degree in engineering trains individuals and teams to approach situations and problems from every conceivable angle to best solve an equation. Engineering is a highly collaborative and creative field, offering students and professionals the opportunity to work in tandem to solve complex problems across a massive pool of industries.&lt;/p&gt;
+
+&lt;p&gt;##Creating an Opportunity&lt;/p&gt;
+
+&lt;p&gt;There is still great value in a Liberal Arts education to pave the way for a fruitful career. But as technology continues to dominate culture, a deeper expertise in math and science is becoming essential in many applications. While many of us are at least familiar with what an engineer typically does, many may be surprised by what an engineer actually can do.&lt;/p&gt;
+
+&lt;p&gt;The skillsets of engineering graduates are clearly applicable to several other key areas that allow society to function. For instance, Albert Einstein spent two years simply evaluating patents before going on to develop many of his own, including patents related to refrigeration, electromagnetic pumps, sound reproduction apparatus and light intensity self-adjusting cameras. In a world dominated by technological innovation, the U.S. Patent and Trademark Office (USPTO) requires its patent agents to have a sharp eye for detail and a comprehensive understanding of the technological landscape. While the USPTO doesn’t necessarily require that all agents have a degree in engineering, it is certain that engineers are top candidates for such work, and can end up being an integral part of the evolution of technology, albeit in a different fashion.&lt;/p&gt;
+
+&lt;p&gt;Engineering also breeds creativity, as illustrated by chemical engineer-turned-fashion designer, Evon Tan. In a 2012 interview Tan specifically noted that her history as an engineer was a noticeable advantage, stating, “I tend to experiment more than usual with the actual fabrications and push the boundaries. You learn the importance of troubleshooting through engineering…”&lt;/p&gt;
+
+&lt;p&gt;While a Liberal Arts degree offers a broad and valued launching point for many endeavors, an engineering background offers a compelling counterbalance to that, preparing individuals to discover, understand and build. During the reveal of the iPad 2, Steve Jobs said, “It is in Apple’s DNA that technology alone is not enough—it’s technology married with liberal arts, married with the humanities, that yields us the results that makes our heart sing.” And so it’s no surprise that engineering programs have started to explode – but it is also important to note that applying the principles of Liberal Arts to the skills of engineering is where true innovation unfolds.&lt;/p&gt;
+
+&lt;p&gt;Now more than ever, we must continue to educate the public about the influence of engineers and, practically speaking, increase the number of those acquiring these degrees. As we mark National Engineers Week, we should call attention to the need to drive home the point that being an engineer doesn’t put one in a box, it provides vast opportunities for one to open – or build – many, many boxes.&lt;/p&gt;
+
+&lt;p&gt;Dinesh Paliwal is Chairman, President and CEO of connected technologies company HARMAN (NYSE:HAR). Paliwal holds a Bachelor’s degree in Math, Physics and Science from Agra University in India and a master’s degree in engineering from the Indian Institute of Technology (IIT Roorkee,). He also earned a master’s degree in applied science and engineering, and a master’s degree in business administration, both from Miami University of Ohio.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>英国介绍</title>
+   <link href="http://chenww.com/2017/08/04/uk/"/>
+   <updated>2017-08-04T00:00:00+08:00</updated>
+   <id>http://chenww.com/2017/08/04/uk</id>
+   <content type="html">&lt;iframe frameborder=&quot;0&quot; width=&quot;640&quot; height=&quot;498&quot; src=&quot;https://v.qq.com/iframe/player.html?vid=m0533awt2ak&amp;amp;tiny=0&amp;amp;auto=0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>打乒乓球</title>
+   <link href="http://chenww.com/2017/07/21/pingpong/"/>
+   <updated>2017-07-21T00:00:00+08:00</updated>
+   <id>http://chenww.com/2017/07/21/pingpong</id>
+   <content type="html">&lt;iframe frameborder=&quot;0&quot; width=&quot;640&quot; height=&quot;498&quot; src=&quot;https://v.qq.com/iframe/player.html?vid=a0528j5mm9j&amp;amp;tiny=0&amp;amp;auto=0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>荷兰介绍</title>
+   <link href="http://chenww.com/2017/07/19/netherlands/"/>
+   <updated>2017-07-19T00:00:00+08:00</updated>
+   <id>http://chenww.com/2017/07/19/netherlands</id>
+   <content type="html">&lt;iframe frameborder=&quot;0&quot; width=&quot;640&quot; height=&quot;498&quot; src=&quot;https://v.qq.com/iframe/player.html?vid=i0527tgvdjo&amp;amp;tiny=0&amp;amp;auto=0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>我的工作</title>
+   <link href="http://chenww.com/2017/07/18/job/"/>
+   <updated>2017-07-18T00:00:00+08:00</updated>
+   <id>http://chenww.com/2017/07/18/job</id>
+   <content type="html">&lt;iframe frameborder=&quot;0&quot; width=&quot;640&quot; height=&quot;498&quot; src=&quot;https://v.qq.com/iframe/player.html?vid=b0526w5s0ge&amp;amp;tiny=0&amp;amp;auto=0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>答辩</title>
+   <link href="http://chenww.com/2017/07/05/defense/"/>
+   <updated>2017-07-05T00:00:00+08:00</updated>
+   <id>http://chenww.com/2017/07/05/defense</id>
+   <content type="html">&lt;p&gt;荷兰大学的博士生答辩并没有报告环节。只是在答辩前有十分钟展示自己的研究或者致谢，这时候答辩委员会并没有入场。正式答辩开始时 beadle 带着权杖引领着委员会入场。博士生身边坐着两个 Paranymph （类似结婚伴郎），通常是他的同学。正式答辩时，博士生和 Paranymph 是正方（防守方），委员会的成员是opponent （反对方）。委员会委员轮流发言，答辩委员会成员和博士生一问一答。一轮结束后进行第二轮，第三轮···，直到 beadle 入场强行打断答辩。beadle 入场后带领委员会进入后场决定博士生是否可以获得学位。之后 beadle 再次带领委员会进入。这时由 Promotor 宣布授予学位。经历了一系列的繁琐程序后，最后导师对博士生进行总结，通常是一些对学生的评价以及寄语（private words）。仪式结束后，beadle 带领博士生及委员会退场。之后招待酒后，听众排队祝贺博士生获得学位（排队，囧）。&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>铁窗</title>
+   <link href="http://chenww.com/2017/04/25/%E9%93%81%E7%AA%97/"/>
+   <updated>2017-04-25T00:00:00+08:00</updated>
+   <id>http://chenww.com/2017/04/25/铁窗</id>
+   <content type="html">&lt;p&gt;他被关在小屋中，透过铁窗他能看到窗外阴沉的天气。屋子外面有狂风又时而沉静。这里是一处临时住所，他被临时安排在这里。他被带进了屋子里，进屋后观察了一下四周。这里是一座老旧的建筑：水泥地面、因为墙皮不断脱落而斑驳的墙面，还有八十年代的铁架窗。但是这里最显著的是房子带给人的阴冷与孤独的感觉，这里能激起一个人最恐惧的情绪。他进来之时被人用针刺了一下背部靠近头颈并立刻失去了知觉。等醒来时他已经不知道发生了什么事情，甚至不知道自己不是待在原来的房间中。此时狭长的房间靠近窗户的一头围坐着一群人，约摸四五个人，靠近门那一头是一个看不清模样的身影，低着头背对着窗户那群人。他主动与窗户那一群人靠近并直觉地觉得跟他们在一起是是较为正确的选择。而门口那一个身影他确定是危险的源头。忽然门口又射进了一个针头，他躲闪了一下，针头刚好刺进了他旁边的人的右手腋下并且马上失去了意识并被一阵风卷走。他坚信刚才的那一幕就是他们被处决的方式。他和同伴们决定反抗这一切。同伴抡起大刀朝门口那身影砍下去，刀落下去却未见红。这不可思议的一幕在他看来却是再正常不过。不过留给他思考的时间却也剩下不多，尽快逃离是唯一的选择。自由的价值并不高，但是因为失去自由而带来的恐惧感却能让一切都失去了光泽。&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>郁金香</title>
+   <link href="http://chenww.com/2017/04/25/tulip/"/>
+   <updated>2017-04-25T00:00:00+08:00</updated>
+   <id>http://chenww.com/2017/04/25/tulip</id>
+   <content type="html">&lt;p&gt;这是一些在库肯霍夫留下的图片。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://chenww.com/images/test.JPG&quot; alt=&quot;Hyde screenshot&quot; /&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Post with a Video</title>
+   <link href="http://chenww.com/2013/06/25/video-post/"/>
+   <updated>2013-06-25T00:00:00+08:00</updated>
+   <id>http://chenww.com/2013/06/25/video-post</id>
+   <content type="html">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/4I_NYya-WWg&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+</content>
+ </entry>
+ 
+
+</feed>

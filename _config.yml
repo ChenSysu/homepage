@@ -9,13 +9,14 @@ relative_permalinks: false
 # Setup
 title:            Weiwei Chen
 #tagline:          'A Jekyll theme'
-description:      'Anyone who understands me eventually recognizes them as nonsensical, when he has used them—as steps—to climb beyond them.       - Wittgenstein'
+description:      'Anyone who understands me eventually recognizes them as nonsensical, when he has used them—as steps—to climb beyond them'
 url:              http://chenww.com
 baseurl:          /
 
 author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
+markdown:         kramdown
 
 paginate:         5
 

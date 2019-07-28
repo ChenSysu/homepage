@@ -7,18 +7,51 @@ title:
   Hi there!
 </p>
 ## About
-This is Weiwei Chen's (陈伟伟) homepage. Weiwei is a Ph.D. candidate at Institute of Logic and Cognition (ILC) and Department of Philosophy, Sun Yat-sen University, China. He is also a Guest Ph.D. candidate at Institute for Logic, Language and Computation ([ILLC](https://www.illc.uva.nl/)), University of Amsterdam, The Netherlands.
+This is Weiwei Chen's homepage. Weiwei Chen is a Ph.D. candidate at [Institute of Logic and Cognition](http://logic.sysu.edu.cn/) (ILC) and Department of Philosophy, [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm), China. 
 
-Weiwei's research falls in interdisciplinary areas such as logic, language, artificial intelligence and philosophy. Now his research has been to get a better understanding of how best to aggregate the argumentative positions of several individual agents. 
+Weiwei's research falls in interdisciplinary areas such as logic, argumentation theory, artificial intelligence. Now his research has been to get a better understanding of how best to aggregate the argumentative positions of several individual agents. 
 
-Currently he is a member of [Computational Social Choice Group](https://staff.fnwi.uva.nl/u.endriss/group.php) organized by [Ulle Endriss](https://staff.fnwi.uva.nl/u.endriss/).
+He obtained his master's degree in Logic from Sun Yat-sen University and did a bachelor of Computer Science at [Guangzhou University](http://english.gzhu.edu.cn/), China. He used to be a guest Ph.D. candidate at IllC, University of Amsterdam, served as a member of the [COSMOC](https://staff.fnwi.uva.nl/u.endriss/group.php) group which led by [Ulle Endriss](https://staff.fnwi.uva.nl/u.endriss/).
 
-He obtained his master's degree in Logic from Sun Yat-sen University and did a bachelor of Computer Science at Guangzhou University, China.
+You can see his CV in [here](http://chenww.com/cv_weiweichen.pdf) and his picture in [here](http://chenww.com/weiwei.jpg). He is on the academic job market this year.
 
-He enjoys writing about himself in the third person.
 
-You can see his mailing address, visiting address and picture in [here](https://www.illc.uva.nl/People/show_person.php?Person_id=Chen+W.).
+## Publications
+* **Weiwei Chen and Ulle Endriss. Preservation of Semantic Properties in Collective Argumentation: The Case of Aggregating Abstract Argumentation Frameworks.** *Artificial Intelligence*, 269:27-48, 2019. ([BibTex]({{ site.url }}/bib/ChenEndrissAIJ2019.bib), [Paper]({{ site.url }}/papers/ChenEndrissAIJ2019.pdf))
 
+* **Weiwei Chen. Aggregation of Argumentative Stances.**<br> In *Proceedings of the Third Summer School on Argumentation (Student Session)*, September 2018. ([BibTex]({{ site.url }}/bib/ChenSSA2018.bib), [Paper]({{ site.url }}/papers/ChenSSA2018.pdf))
+
+* **Weiwei Chen and Ulle Endriss. Aggregating Alternative Extensions of Abstract Argumentation Frameworks: Preservation Results for Quota Rules.**<br> In *Proceedings of the 7th International Conference on Computational Models of Argument (COMMA-2018)*, pp. 425–436, 2018. ([BibTex]({{ site.url }}/bib/ChenEndrissCOMMA2018.bib), [Paper]({{ site.url }}/papers/ChenEndrissCOMMA2018.pdf), [Slides]({{ site.url }}/slides/comma-slides.pdf))
+
+* **Weiwei Chen and Ulle Endriss. Preservation of Semantic Properties during the Aggregation of Abstract Argumentation Frameworks.**<br> In *Proceedings Sixteenth Conference on Theoretical Aspects of Rationality and Knowledge* (TARK-2017), pp. 118–133, 2017. ([BibTex]({{ site.url }}/bib/ChenEndrissTARK2017.bib), [Paper]({{ site.url }}/papers/ChenEndrissTARK2017.pdf), [Slides]({{ site.url }}/slides/tark-slides.pdf))
+
+## Talks
+
+* **Aggregating Extensions of Abstract Argumentation Frameworks**,<br>
+[Computational Social Choice Seminar](http://www.illc.uva.nl/NewsandEvents/Events/Upcoming-Events/newsitem/10156/19-September-2018-Computational-Social-Choice-Seminar-Weiwei-Chen), University of Amsterdam, The Netherlands, September, 2018.
+
+* **What Can We Expect from Consensus Decision-making?**<br>
+[Cool Logic Seminar](http://events.illc.uva.nl/coollogic/talks/77), University of Amsterdam, The Netherlands, September, 2017.
+
+* **Aggregation of Abstract Argumentation Frameworks**,<br>
+[Computational Social Choice Seminar](https://www.illc.uva.nl/NewsandEvents/Events/Upcoming-Events/newsitem/9103/20-June-2017,-Computational-Social-Choice-Seminar,-Weiwei-Chen), University of Amsterdam, The Netherlands, June, 2017.
+
+* **François Recanati’s Contextualism and its Inconsistency**,<br>
+Workshop for PhD Students in Philosophy from Five Universities (第八届南北五校哲学博士生论坛), Wuhan University, China, November, 2015.
+
+## Teaching
+
+Teaching assistant (Sun Yat-sen University)
+
+* Mathematical analysis (Fall, 2015)
+
+* Philosophy of Logic (Spring, 2016)
 
 ## Contact
-* chenww26[at]mail2.sysu.edu.cn
+* chenww26@mail2.sysu.edu.cn, twogreat.chen@gmail.com
+
+## 关于
+这是陈伟伟的主页
+
+## Update
+Last updated on 28 May 2019

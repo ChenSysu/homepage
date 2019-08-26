@@ -7,7 +7,7 @@ title:
   Hi there!
 </p>
 ## About
-This is Weiwei Chen's homepage. Weiwei Chen just received his Ph.D. Degree at [Institute of Logic and Cognition](http://logic.sysu.edu.cn/) (ILC) and Department of Philosophy, [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm), China. He is on the academic job market this year.
+This is Weiwei Chen's homepage. Weiwei Chen recently received his Ph.D. Degree at [Institute of Logic and Cognition](http://logic.sysu.edu.cn/) (ILC) and Department of Philosophy, [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm), China. He is on the academic job market this year.
 
 Weiwei's research falls in interdisciplinary areas such as logic, argumentation theory, artificial intelligence. Now his research has been to get a better understanding of how best to aggregate the argumentative positions of several individual agents. 
 

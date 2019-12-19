@@ -41,6 +41,10 @@ Workshop for PhD Students in Philosophy from Five Universities (第八届南北�
 
 * PC member of [IJCAI-PRICAI 2020](http://ijcai20.org/)
 
+## Research Funding
+
+* [China Postdoctoral Science Foundation Grant](http://www.chinapostdoctor.org.cn/)
+
 ## Teaching
 
 Teaching assistant (Sun Yat-sen University)

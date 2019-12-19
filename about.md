@@ -7,7 +7,7 @@ title:
   Hi there!
 </p>
 ## About
-This is Weiwei Chen's homepage. Weiwei Chen is a postdoctoral researcher at Institute of Logic and Cognition and Department of Philosophy, [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm), China.
+This is Weiwei Chen's homepage. Weiwei is a postdoctoral researcher at Institute of Logic and Cognition and Department of Philosophy, [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm), China.
 
 You can see his CV in [here](http://chenww.com/cv_weiweichen.pdf) and his picture in [here](http://chenww.com/weiwei.jpg).
 

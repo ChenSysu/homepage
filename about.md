@@ -7,11 +7,7 @@ title:
   Hi there!
 </p>
 ## About
-This is Weiwei Chen's homepage. Weiwei Chen recently received his Ph.D. Degree at [Institute of Logic and Cognition](http://logic.sysu.edu.cn/) (ILC) and Department of Philosophy, [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm), China. He is on the academic job market this year.
-
-Weiwei's research falls in interdisciplinary areas such as logic, argumentation theory, artificial intelligence. Now his research has been to get a better understanding of how best to aggregate the argumentative positions of several individual agents. 
-
-He obtained his master's degree in Logic from Sun Yat-sen University and did a bachelor of Computer Science at [Guangzhou University](http://english.gzhu.edu.cn/), China. He used to be a guest Ph.D. candidate at IllC, University of Amsterdam, served as a member of the [COSMOC](https://staff.fnwi.uva.nl/u.endriss/group.php) group which led by [Ulle Endriss](https://staff.fnwi.uva.nl/u.endriss/).
+This is Weiwei Chen's homepage. Weiwei Chen recently received his Ph.D. Degree at [Institute of Logic and Cognition](http://logic.sysu.edu.cn/) (ILC) and Department of Philosophy, [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm), China.
 
 You can see his CV in [here](http://chenww.com/cv_weiweichen.pdf) and his picture in [here](http://chenww.com/weiwei.jpg).
 

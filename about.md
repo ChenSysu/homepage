@@ -7,7 +7,7 @@ title:
   Hi there!
 </p>
 ## About
-This is Weiwei Chen's homepage. Weiwei Chen recently received his Ph.D. Degree at [Institute of Logic and Cognition](http://logic.sysu.edu.cn/) (ILC) and Department of Philosophy, [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm), China.
+This is Weiwei Chen's homepage. Weiwei Chen is a postdoctoral researcher at Institute of Logic and Cognition and Department of Philosophy, [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm), China.
 
 You can see his CV in [here](http://chenww.com/cv_weiweichen.pdf) and his picture in [here](http://chenww.com/weiwei.jpg).
 
@@ -34,6 +34,12 @@ You can see his CV in [here](http://chenww.com/cv_weiweichen.pdf) and his pictur
 
 * **François Recanati’s Contextualism and its Inconsistency**,<br>
 Workshop for PhD Students in Philosophy from Five Universities (第八届南北五校哲学博士生论坛), Wuhan University, China, November, 2015.
+
+## Activities
+
+PC member of CLAR 2020
+
+PC member of IJCAI-PRICAI 2020
 
 ## Teaching
 

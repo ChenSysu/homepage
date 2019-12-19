@@ -37,9 +37,9 @@ Workshop for PhD Students in Philosophy from Five Universities (第八届南北�
 
 ## Activities
 
-PC member of CLAR 2020
+* PC member of [CLAR 2020](http://www.xixilogic.org/events/clar2020/)
 
-PC member of IJCAI-PRICAI 2020
+* PC member of [IJCAI-PRICAI 2020](http://ijcai20.org/)
 
 ## Teaching
 

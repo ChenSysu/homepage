@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Weiwei Chen's homepage
+title:
 ---
 
 <p class="message" font-weight:100>

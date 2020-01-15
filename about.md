@@ -13,6 +13,8 @@ You can see his CV in [here](http://chenww.com/cv_weiweichen.pdf) and his pictur
 
 
 ## Publications
+* **Weiwei Chen. Aggregation of Support-Relations of Bipolar Argumentation Frameworks (Extended Abstract).** In *Proceedings of the 19th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-2020)*, May, 2020. 
+
 * **Weiwei Chen and Ulle Endriss. Preservation of Semantic Properties in Collective Argumentation: The Case of Aggregating Abstract Argumentation Frameworks.** *Artificial Intelligence*, 269:27-48, 2019. ([BibTex]({{ site.url }}/bib/ChenEndrissAIJ2019.bib), [Paper]({{ site.url }}/papers/ChenEndrissAIJ2019.pdf))
 
 * **Weiwei Chen. Aggregation of Argumentative Stances.**<br> In *Proceedings of the Third Summer School on Argumentation (Student Session)*, September 2018. ([BibTex]({{ site.url }}/bib/ChenSSA2018.bib), [Paper]({{ site.url }}/papers/ChenSSA2018.pdf))

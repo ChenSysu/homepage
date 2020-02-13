@@ -9,8 +9,10 @@ title:
 ## About
 This is Weiwei Chen's homepage. Weiwei is a postdoctoral researcher at Institute of Logic and Cognition and Department of Philosophy, [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm), China.
 
-You can see his CV in [here](http://chenww.com/cv_weiweichen.pdf) and his picture in [here](http://chenww.com/weiwei.jpg).
+You can see his picture in [here](http://chenww.com/weiwei.jpg).
 
+## Contact
+* chenww26@mail2.sysu.edu.cn, twogreat.chen@gmail.com
 
 ## Publications
 * **Weiwei Chen. Aggregation of Support-Relations of Bipolar Argumentation Frameworks (Extended Abstract).** In *Proceedings of the 19th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-2020)*, May, 2020. 
@@ -55,8 +57,6 @@ Teaching assistant (Sun Yat-sen University)
 
 * Philosophy of Logic (Spring, 2016)
 
-## Contact
-* chenww26@mail2.sysu.edu.cn, twogreat.chen@gmail.com
 
 ## 关于
 这是陈伟伟的主页

@@ -15,7 +15,7 @@ You can see his picture in [here](http://chenww.com/weiwei.jpg).
 * chenww26@mail2.sysu.edu.cn, twogreat.chen@gmail.com
 
 ## Publications
-* **Weiwei Chen. Aggregation of Support-Relations of Bipolar Argumentation Frameworks (Extended Abstract).** In *Proceedings of the 19th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-2020)*, May, 2020. 
+* **Weiwei Chen. Aggregation of Support-Relations of Bipolar Argumentation Frameworks (Extended Abstract).** In *Proceedings of the 19th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-2020)*, May, 2020. ([BibTex]({{ site.url }}/bib/ChenAAMAS2020.bib), [Paper]({{ site.url }}/papers/ChenAAMAS2020.pdf))
 
 * **Weiwei Chen and Ulle Endriss. Preservation of Semantic Properties in Collective Argumentation: The Case of Aggregating Abstract Argumentation Frameworks.** *Artificial Intelligence*, 269:27-48, 2019. ([BibTex]({{ site.url }}/bib/ChenEndrissAIJ2019.bib), [Paper]({{ site.url }}/papers/ChenEndrissAIJ2019.pdf))
 

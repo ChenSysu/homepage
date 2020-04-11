@@ -13,7 +13,7 @@ This is Weiwei Chen's homepage. Weiwei is a postdoctoral researcher at Institute
 * chenww26@mail2.sysu.edu.cn, twogreat.chen@gmail.com
 
 ## Publications
-* **Weiwei Chen. Preservation of Admissibility with Rationality and Feasibility Constraints.** In *Proceedings of the 3rd International Conference on Logic and Argumentation (CLAR-2020)*, April, 2020. 
+* **Weiwei Chen. Preservation of Admissibility with Rationality and Feasibility Constraints.** In *Proceedings of the 3rd International Conference on Logic and Argumentation (CLAR-2020)*, April, 2020. ([BibTex]({{ site.url }}/bib/ChenAAMAS.bib), [Paper]({{ site.url }}/papers/ChenAAMAS2020.pdf))
 
 * **Weiwei Chen. Aggregation of Support-Relations of Bipolar Argumentation Frameworks (Extended Abstract).** In *Proceedings of the 19th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-2020)*, May, 2020. 
 

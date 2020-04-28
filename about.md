@@ -27,7 +27,7 @@ This is Weiwei Chen's homepage. Weiwei is a postdoctoral researcher at Institute
 
 
 ## Thesis
-* **Weiwei Chen. Aggregation In Collective Argumentation (Chinese Title: 群体论证的聚合理论).** Phd Thesis, Sun Yat-sen University, June, 2020. (Please contact for the copy of the thesis)
+* **Weiwei Chen. Aggregation In Collective Argumentation (Chinese Title: 群体论证的聚合理论).** Ph.D. Thesis, Sun Yat-sen University, China, June, 2019.
 
 ## Talks
 

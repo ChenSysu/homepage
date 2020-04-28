@@ -25,6 +25,10 @@ This is Weiwei Chen's homepage. Weiwei is a postdoctoral researcher at Institute
 
 * **Weiwei Chen and Ulle Endriss. Preservation of Semantic Properties during the Aggregation of Abstract Argumentation Frameworks.**<br> In *Proceedings Sixteenth Conference on Theoretical Aspects of Rationality and Knowledge* (TARK-2017), pp. 118–133, 2017. ([BibTex]({{ site.url }}/bib/ChenEndrissTARK2017.bib), [Paper]({{ site.url }}/papers/ChenEndrissTARK2017.pdf), [Slides]({{ site.url }}/slides/tark-slides.pdf))
 
+
+## Thesis
+* **Weiwei Chen. Aggregation In Collective Argumentation (Chinese Title: 群体论证的聚合理论).** Phd Thesis, Sun Yat-sen University, June, 2020. (Please contact for the copy of the thesis)
+
 ## Talks
 
 * **Aggregating Extensions of Abstract Argumentation Frameworks**,<br>

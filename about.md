@@ -3,9 +3,8 @@ layout: page
 title:
 ---
 
-<p class="message" font-weight:100>
   Hi there!
-</p>
+
 ## About
 This is Weiwei Chen's homepage. Weiwei is a postdoctoral researcher at Institute of Logic and Cognition and Department of Philosophy, [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm), China.
 

@@ -12,6 +12,8 @@ This is Weiwei Chen's homepage. Weiwei is a postdoctoral researcher at Institute
 * chenww26@mail2.sysu.edu.cn, twogreat.chen@gmail.com
 
 ## Publications
+* **Weiwei Chen. Guaranteeing Admissibility of Abstract Argumentation Frameworks with Rationality and Feasibility Constraints.** *Journal of Logic and Computation*, forthcoming.
+
 * **Xiaolong Liu and Weiwei Chen. Solid Semantics and Extension Aggregation Using Quota Rules under Integrity Constraints (Extended Abstract).** In *Proceedings of the 20th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-2021)*, May, 2021. ([BibTex]({{ site.url }}/bib/LiuChenAAMAS.bib))
 
 * **Weiwei Chen. Aggregation of Support-Relations of Bipolar Argumentation Frameworks (Extended Abstract).** In *Proceedings of the 19th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-2020)*, May, 2020. ([BibTex]({{ site.url }}/bib/ChenAAMAS.bib), [Paper]({{ site.url }}/papers/ChenAAMAS2020.pdf))

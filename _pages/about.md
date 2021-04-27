@@ -6,7 +6,7 @@ description: <a href="philosophy.sysu.edu.cn">Department of Philosophy</a>.
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  image: prof_pic.jpg
   address: >
     <p>Xi Chang Hall</p>
     <p>No. 135, Xingang Xi Road</p>

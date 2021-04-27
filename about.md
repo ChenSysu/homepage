@@ -1,75 +1,178 @@
 ---
-layout: page
-title:
+layout: about
+image: /assets/img/blog/hydejack-9.jpg
+description: >
+  A boutique Jekyll theme for hackers, nerds, and academics,
+  with a focus on personal sites that are meant to impress.
+hide_description: true
+permalink: /
+redirect_from:
+  - /download/
 ---
 
-  Hi there!
+# About
 
-## About
-This is Weiwei Chen's homepage. Weiwei is a postdoctoral researcher at Institute of Logic and Cognition and Department of Philosophy, [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm), China.
+<!--author-->
 
-## Contact
-* chenww26@mail2.sysu.edu.cn, twogreat.chen@gmail.com
+## Hydejack
 
-## Publications
+A boutique Jekyll theme for hackers, nerds, and academics.  
+{:.lead}
 
-* **Weiwei Chen. Collective Argumentation: The Case of Aggregating Support-Relations of Bipolar Argumentation Frameworks.**<br> In *Proceedings Eighteenth Conference on Theoretical Aspects of Rationality and Knowledge* (TARK-2021), June, 2021. ([BibTex]({{ site.url }}/bib/ChenTARK2021.bib))
+1. this list will be replaced by the toc
+{:toc .large-only}
 
-* **Weiwei Chen. Guaranteeing Admissibility of Abstract Argumentation Frameworks with Rationality and Feasibility Constraints.** *Journal of Logic and Computation*, forthcoming.
+![Screenshot](assets/img/blog/hydejack-9.jpg){:.lead width="1920" height="1080" loading="lazy"}
 
-* **Xiaolong Liu and Weiwei Chen. Solid Semantics and Extension Aggregation Using Quota Rules under Integrity Constraints (Extended Abstract).** In *Proceedings of the 20th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-2021)*, May, 2021. ([BibTex]({{ site.url }}/bib/LiuChenAAMAS.bib))
-
-* **Weiwei Chen. Aggregation of Support-Relations of Bipolar Argumentation Frameworks (Extended Abstract).** In *Proceedings of the 19th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-2020)*, May, 2020. ([BibTex]({{ site.url }}/bib/ChenAAMAS.bib), [Paper]({{ site.url }}/papers/ChenAAMAS2020.pdf))
-
-* **Weiwei Chen. Preservation of Admissibility with Rationality and Feasibility Constraints.** In *Proceedings of the 3rd International Conference on Logic and Argumentation (CLAR-2020)*, April, 2020.
-
-* **Weiwei Chen and Ulle Endriss. Preservation of Semantic Properties in Collective Argumentation: The Case of Aggregating Abstract Argumentation Frameworks.** *Artificial Intelligence*, 269:27-48, 2019. ([BibTex]({{ site.url }}/bib/ChenEndrissAIJ2019.bib), [Paper]({{ site.url }}/papers/ChenEndrissAIJ2019.pdf))
-
-* **Weiwei Chen. Aggregation of Argumentative Stances.**<br> In *Proceedings of the Third Summer School on Argumentation (Student Session)*, September 2018. ([BibTex]({{ site.url }}/bib/ChenSSA2018.bib), [Paper]({{ site.url }}/papers/ChenSSA2018.pdf))
-
-* **Weiwei Chen and Ulle Endriss. Aggregating Alternative Extensions of Abstract Argumentation Frameworks: Preservation Results for Quota Rules.**<br> In *Proceedings of the 7th International Conference on Computational Models of Argument (COMMA-2018)*, pp. 425–436, 2018. ([BibTex]({{ site.url }}/bib/ChenEndrissCOMMA2018.bib), [Paper]({{ site.url }}/papers/ChenEndrissCOMMA2018.pdf), [Slides]({{ site.url }}/slides/comma-slides.pdf))
-
-* **Weiwei Chen and Ulle Endriss. Preservation of Semantic Properties during the Aggregation of Abstract Argumentation Frameworks.**<br> In *Proceedings Sixteenth Conference on Theoretical Aspects of Rationality and Knowledge* (TARK-2017), pp. 118–133, 2017. ([BibTex]({{ site.url }}/bib/ChenEndrissTARK2017.bib), [Paper]({{ site.url }}/papers/ChenEndrissTARK2017.pdf), [Slides]({{ site.url }}/slides/tark-slides.pdf))
+Hydejack's cover page on a variety of screen sizes.
+{:.figcaption}
 
 
-## Thesis
-* **Weiwei Chen. Aggregation In Collective Argumentation (Chinese Title: 群体论证的聚合理论).** Ph.D. Thesis, Sun Yat-sen University, China, June, 2019.
+**Hydejack** is a boutique Jekyll theme for hackers, nerds, and academics, with a focus on personal sites that are meant to impress. 
 
-## Talks
+It includes a blog that is suitable for both prose and technical documentation, a portfolio to showcase your projects, and a resume template that looks amazing on the web and in print.
 
-* **Aggregating Extensions of Abstract Argumentation Frameworks**,<br>
-[Computational Social Choice Seminar](http://www.illc.uva.nl/NewsandEvents/Events/Upcoming-Events/newsitem/10156/19-September-2018-Computational-Social-Choice-Seminar-Weiwei-Chen), University of Amsterdam, The Netherlands, September, 2018.
-
-* **What Can We Expect from Consensus Decision-making?**<br>
-[Cool Logic Seminar](http://events.illc.uva.nl/coollogic/talks/77), University of Amsterdam, The Netherlands, September, 2017.
-
-* **Aggregation of Abstract Argumentation Frameworks**,<br>
-[Computational Social Choice Seminar](https://www.illc.uva.nl/NewsandEvents/Events/Upcoming-Events/newsitem/9103/20-June-2017,-Computational-Social-Choice-Seminar,-Weiwei-Chen), University of Amsterdam, The Netherlands, June, 2017.
-
-* **François Recanati’s Contextualism and its Inconsistency**,<br>
-Workshop for PhD Students in Philosophy from Five Universities (第八届南北五校哲学博士生论坛), Wuhan University, China, November, 2015.
-
-## Activities
-
-* PC member of [CLAR 2020](http://www.xixilogic.org/events/clar2020/)
-
-* PC member of [IJCAI-PRICAI 2020](http://ijcai20.org/)
-
-## Research Funding
-
-* [China Postdoctoral Science Foundation Grant](http://www.chinapostdoctor.org.cn/)
-
-## Teaching
-
-Teaching assistant (Sun Yat-sen University)
-
-* Mathematical analysis (Fall, 2015)
-
-* Philosophy of Logic (Spring, 2016)
+> Your complete presence on the web — A [blog], [portfolio], and [resume].
+{:.lead}
 
 
-## 关于
-这是陈伟伟的主页
+## A Personal Site That Won't Disappear
 
-## Update
-Last updated on April 21, 2021
+**Hydejack** is 100% built on Open Source software, and is Open Source itself, save for parts of the PRO version. The PRO version is a one-time payment that gives you the right to use it forever.
+
+Hydejack is all static sites. _HTML_. All you need is a web server --- any web server --- to have a professional web presence that lasts a lifetime.
+
+## Download
+
+{% include table.md %}
+
+
+## A Free Blogging Theme
+**Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.
+
+<!--posts-->
+
+
+## An Impressive Portfolio
+A portfolio that's guaranteed to be impressive — no matter what you put into it.
+
+<!--projects-->
+
+
+## A Printable Resume
+Get a resume that's consistent across the board — whether it's on the web, mobile, print, or [PDF](assets/Resume.pdf).
+
+[![Resume PDF](assets/img/blog/resume.png){:.lead width="884" height="632" loading="lazy"}][resume]{:.no-hover}
+
+Front and center page of a print resume generated by Hydejack.
+{:.figcaption}
+
+
+## Just Markdown
+Write all content with Markdown. __Hydejack__ gives you [additional CSS classes](docs/writing.md) to stylize your content, without losing compatibility with other Jekyll themes.
+
+
+## Just Markup
+**Hydejack** boasts a plethora of modern JavaScript, but make no mistake: It's still a _plain old web page_ at its core. It works without JavaScript and you can even view it in a text-based browser like `w3m`:
+
+![w3m Screenshot](assets/img/blog/w3m.png){:.tail width="1920" height="1260" loading="lazy"}
+
+The Hydejack blog, as seen by the text browser `w3m`.
+{:.figcaption}
+
+
+## Syntax Highlighting
+**Hydejack** features syntax highlighting, powered by [Rouge].
+
+```html
+<!-- file: `_includes/my-body.html` -->
+<script type="module">
+  document.querySelector("hy-push-state").addEventListener("hy-push-state-load", () => {
+    const supportsCodeHighlights = false; // TBD!!
+  });
+</script>
+```
+
+Code blocks can have a filename and a caption.
+{:.figcaption}
+
+
+## Beautiful Math
+They say math is beautiful — and with **Hydejack**'s [math support][math] it's guaranteed to also look beautiful:
+
+$$
+\begin{aligned}
+  \phi(x,y) &= \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right) \\[2em]
+            &= \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j)            \\[2em]
+            &= (x_1, \ldots, x_n)
+               \left(\begin{array}{ccc}
+                 \phi(e_1, e_1)  & \cdots & \phi(e_1, e_n) \\
+                 \vdots          & \ddots & \vdots         \\
+                 \phi(e_n, e_1)  & \cdots & \phi(e_n, e_n)
+               \end{array}\right)
+               \left(\begin{array}{c}
+                 y_1    \\
+                 \vdots \\
+                 y_n
+               \end{array}\right)
+\end{aligned}
+$$
+
+Hydejack uses KaTeX to efficiently render math.
+{:.figcaption}
+
+
+## Build an Audience
+The PRO version has built-in support for customizable [Tinyletter] newsletter subscription boxes.
+
+If you are using a different service like MailChimp, you can build a custom newsletter subscription box using [Custom Forms][forms].
+
+
+## Features
+
+{% include features.md %}
+
+
+## Comparison
+
+{% include table.md %}
+
+
+## Get It Now
+
+Use the the form below to purchase Hydejack PRO:
+
+<div class="gumroad-product-embed" data-gumroad-product-id="nuOluY"><a href="https://gumroad.com/l/nuOluY">Loading…</a></div>
+
+
+[blog]: /
+[portfolio]: https://hydejack.com/examples/
+[resume]: https://hydejack.com/resume/
+[download]: https://hydejack.com/download/
+[welcome]: https://hydejack.com/
+[forms]: https://hydejack.com/forms-by-example/
+
+[features]: #features
+[news]: #build-an-audience
+[syntax]: syntax-highlighting
+[latex]: #beautiful-math
+[dark]: https://hydejack.com/blog/hydejack/2018-09-01-introducing-dark-mode/
+[search]: https://hydejack.com/#_search-input
+[grid]: https://hydejack.com/blog/hydejack/
+
+[lic]: LICENSE.md
+[pro]: licenses/PRO.md
+[docs]: docs/README.md
+[ofln]: docs/advanced.md#enabling-offline-support
+[math]: docs/writing.md#adding-math
+
+[kit]: https://github.com/hydecorp/hydejack-starter-kit/releases
+[src]: https://github.com/hydecorp/hydejack
+[gem]: https://rubygems.org/gems/jekyll-theme-hydejack
+[buy]: https://gum.co/nuOluY
+
+[gpss]: https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fhydejack.com%2Fdocs%2F
+[rouge]: http://rouge.jneen.net
+[katex]: https://khan.github.io/KaTeX/
+[mathjax]: https://www.mathjax.org/
+[tinyletter]: https://tinyletter.com/

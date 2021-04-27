@@ -4,18 +4,19 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-#relative_permalinks: true
+relative_permalinks: false
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Weiwei Chen
+#tagline:          'A Jekyll theme'
+#description:      'Anyone who understands me eventually recognizes them as nonsensical, when he has used them—as steps—to climb beyond them'
+url:              http://chenww.com
 baseurl:          /
 
 author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
+markdown:         kramdown
 
 paginate:         5
 

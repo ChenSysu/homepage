@@ -299,7 +299,7 @@ For more details on how to create distill-styled posts using `<d-*>` tags, pleas
 
 #### Full support for math & code
 
-**al-folio** supports fast math typesetting through [KaTeX](https://katex.org/) and code syntax highlighting using [GitHub style](https://github.com/jwarby/jekyll-pygments-themes):
+**al-folio** supports fast math typesetting through [KaTeX](https://katex.org/) and code syntax highlighting using GitHub style:
 
 <p align="center">
 <a href="https://alshedivat.github.io/al-folio/blog/2015/math/" target="_blank"><img src="assets/img/math-screenshot.png" width=400></a>

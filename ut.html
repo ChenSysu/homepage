@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>My Homepage</title>
+  </head>
+  <body>
+    <header>
+      <h1>Welcome to My Homepage</h1>
+    </header>
+    <main>
+      <p>This page was last updated on <span id="last-updated"></span></p>
+    </main>
+    <script>
+      document.getElementById("last-updated").innerHTML = new Date().toLocaleString();
+    </script>
+  </body>
+</html>

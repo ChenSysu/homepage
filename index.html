@@ -73,6 +73,20 @@
             transition: color 0.2s;
         }
         .nav-link:hover { color: var(--blue) !important; }
+        .language-link {
+            border: 1px solid var(--blue);
+            border-radius: 999px;
+            color: var(--blue) !important;
+            margin-left: 0.5rem;
+            padding-left: 0.85rem !important;
+            padding-right: 0.85rem !important;
+            text-transform: none;
+        }
+        .language-link:hover {
+            background: var(--blue);
+            color: #fff !important;
+            text-decoration: none;
+        }
 
         /* ── Layout ── */
         .page-wrap {
@@ -168,6 +182,21 @@
         }
         .intro-box p { margin-bottom: 0.75rem; }
         .intro-box p:last-child { margin-bottom: 0; }
+        .language-callout {
+            background: #fff;
+            border: 1px solid var(--blue);
+            border-radius: 8px;
+            color: var(--navy);
+            font-size: 0.95rem;
+            margin-bottom: 1rem;
+            padding: 0.8rem 1rem;
+        }
+        .language-callout a {
+            color: var(--blue);
+            font-weight: 700;
+            text-decoration: none;
+        }
+        .language-callout a:hover { text-decoration: underline; }
         .intro-box .chinese-bio {
             border-top: 1px solid var(--border);
             margin-top: 1rem;
@@ -344,6 +373,7 @@
                 <li class="nav-item"><a class="nav-link" href="#activities">Activities</a></li>
                 <li class="nav-item"><a class="nav-link" href="#talks">Talks</a></li>
                 <li class="nav-item"><a class="nav-link" href="#grants">Grants</a></li>
+                <li class="nav-item"><a class="nav-link language-link" href="cn.html" lang="zh-CN">中文主页</a></li>
             </ul>
         </div>
     </div>
@@ -358,6 +388,9 @@
 
             <!-- Bio -->
             <div class="intro-box">
+                <div class="language-callout" lang="zh-CN">
+                    中文读者可访问：<a href="cn.html">陈伟伟中文主页</a>。
+                </div>
                 <p>I am an <a href="https://philosophy.sysu.edu.cn/teacher/ChenWeiwei" target="_blank" rel="noopener">associate professor and MA supervisor</a> at the Institute of Logic and Cognition and Department of Philosophy, <a href="https://www.sysu.edu.cn/" target="_blank" rel="noopener">Sun Yat-sen University</a>, China.</p>
                 <p>My research studies <strong>formal models of collective argumentation</strong> and their connections to <strong>social choice theory</strong>, <strong>logic</strong>, and <strong>artificial intelligence</strong>. I ask how individual argumentation frameworks, judgments, preferences, or votes can be aggregated into collective outcomes while preserving rationality, semantic, and strategic properties.</p>
                 <p>Recent work develops preservation results for collective argumentation, topological restrictions that avoid impossibility results, dynamic revision and contraction operators, proportional acceptability, and strategyproof collective argumentation.</p>
@@ -376,7 +409,7 @@
             <ul class="cv-list">
                 <li>
                     <span class="cv-date">2024 – present</span>
-                    <span>Associate Professor, Institute of Logic and Cognition, Department of Philosophy, <a href="https://www.sysu.edu.cn/" target="_blank" rel="noopener">Sun Yat-sen University</a>, China.</span>
+                    <span>Associate Professor and MA Supervisor, Institute of Logic and Cognition, Department of Philosophy, <a href="https://www.sysu.edu.cn/" target="_blank" rel="noopener">Sun Yat-sen University</a>, China.</span>
                 </li>
                 <li>
                     <span class="cv-date">2019 – 2024</span>
@@ -591,6 +624,7 @@
                     Guangzhou 510275, China
                 </div>
                 <div class="profile-links">
+                    <a href="cn.html" lang="zh-CN">中文主页</a>
                     <a href="cv/Weiwei_Chen_CV.pdf" target="_blank" rel="noopener">CV</a>
                     <a href="https://scholar.google.com/citations?user=I8ISBZAAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
                     <a href="https://orcid.org/0000-0002-3447-8163" target="_blank" rel="noopener">ORCID</a>

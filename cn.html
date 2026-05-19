@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="陈伟伟，中山大学哲学系、逻辑与认知研究所副教授、硕士生导师，研究方向为形式论证、群体论辩、社会选择理论、逻辑与人工智能。">
+    <meta name="keywords" content="陈伟伟, Weiwei Chen, 中山大学, 形式论证, 群体论辩, 社会选择理论, 逻辑, 人工智能">
+
+    <title>陈伟伟 | 中山大学</title>
+
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%230071e3'/><text x='50%' y='54%' dominant-baseline='middle' text-anchor='middle' font-family='Georgia,serif' font-size='18' fill='white'>陈</text></svg>">
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZP8J8S9V29"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-ZP8J8S9V29');
+    </script>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500;700&family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
+
+    <style>
+        :root {
+            --navy:    #1a2540;
+            --blue:    #0071e3;
+            --light:   #f5f7fa;
+            --border:  #dde2ea;
+            --muted:   #6b7590;
+            --text:    #1d1d1f;
+        }
+
+        * { box-sizing: border-box; }
+
+        body {
+            font-family: 'Noto Sans SC', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            color: var(--text);
+            background: #fff;
+            font-size: 1rem;
+            line-height: 1.8;
+        }
+
+        .navbar {
+            background: #fff;
+            border-bottom: 1px solid var(--border);
+            padding: 0.75rem 0;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        .navbar-brand {
+            font-family: 'Noto Serif SC', serif;
+            font-size: 1.25rem;
+            font-weight: 700;
+            color: var(--navy) !important;
+        }
+        .nav-link {
+            color: var(--navy) !important;
+            font-weight: 700;
+            font-size: 0.88rem;
+            letter-spacing: 0.03em;
+            padding: 0.5rem 1rem !important;
+            transition: color 0.2s;
+        }
+        .nav-link:hover { color: var(--blue) !important; }
+        .language-link {
+            border: 1px solid var(--blue);
+            border-radius: 999px;
+            color: var(--blue) !important;
+            margin-left: 0.5rem;
+            padding-left: 0.85rem !important;
+            padding-right: 0.85rem !important;
+        }
+        .language-link:hover {
+            background: var(--blue);
+            color: #fff !important;
+        }
+
+        .page-wrap {
+            max-width: 1060px;
+            margin: 0 auto;
+            padding: 2.5rem 1.5rem 4rem;
+        }
+
+        .profile-card {
+            background: var(--light);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            padding: 1.5rem;
+            position: sticky;
+            top: 80px;
+        }
+        .profile-card h4 {
+            font-family: 'Noto Serif SC', serif;
+            font-size: 1.4rem;
+            font-weight: 700;
+            margin-bottom: 0.1rem;
+            color: var(--navy);
+        }
+        .profile-card .title-line {
+            font-size: 0.85rem;
+            color: var(--muted);
+            font-weight: 700;
+            letter-spacing: 0.05em;
+            margin-bottom: 1rem;
+        }
+        .profile-card img {
+            width: 100%;
+            border-radius: 8px;
+            margin-bottom: 1rem;
+            display: block;
+        }
+        .profile-card .address {
+            font-size: 0.88rem;
+            line-height: 1.7;
+            color: var(--text);
+        }
+        .profile-card .email-link {
+            color: var(--blue);
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 0.88rem;
+            word-break: break-all;
+        }
+        .profile-card .email-link:hover { text-decoration: underline; }
+        .profile-links {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.4rem;
+            margin-top: 1rem;
+        }
+        .profile-links a {
+            font-size: 0.8rem;
+            font-weight: 700;
+            padding: 0.25rem 0.65rem;
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            color: var(--navy);
+            text-decoration: none;
+            background: #fff;
+            transition: border-color 0.2s, color 0.2s;
+        }
+        .profile-links a:hover { border-color: var(--blue); color: var(--blue); }
+        .profile-note {
+            margin-top: 0.9rem;
+            color: var(--muted);
+            font-size: 0.78rem;
+            line-height: 1.55;
+        }
+        .last-updated {
+            margin-top: 1rem;
+            font-size: 0.78rem;
+            color: var(--muted);
+        }
+
+        .intro-box {
+            background: var(--light);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            padding: 1.5rem 1.75rem;
+            margin-bottom: 2rem;
+        }
+        .intro-box p { margin-bottom: 0.75rem; }
+        .intro-box p:last-child { margin-bottom: 0; }
+        .language-callout {
+            background: #fff;
+            border: 1px solid var(--blue);
+            border-radius: 8px;
+            color: var(--navy);
+            font-size: 0.95rem;
+            margin-bottom: 1rem;
+            padding: 0.8rem 1rem;
+        }
+        .language-callout a {
+            color: var(--blue);
+            font-weight: 700;
+            text-decoration: none;
+        }
+        .language-callout a:hover { text-decoration: underline; }
+        .research-themes {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.45rem;
+            padding: 0;
+            margin: 1rem 0 0;
+            list-style: none;
+        }
+        .research-themes li {
+            background: #fff;
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            color: var(--navy);
+            font-size: 0.84rem;
+            font-weight: 700;
+            line-height: 1.4;
+            padding: 0.32rem 0.7rem;
+        }
+
+        h2.section-title {
+            font-family: 'Noto Serif SC', serif;
+            font-size: 1.55rem;
+            font-weight: 700;
+            color: var(--navy);
+            margin-top: 2.5rem;
+            margin-bottom: 1rem;
+            padding-bottom: 0.4rem;
+            border-bottom: 2px solid var(--border);
+        }
+        h4.sub-title {
+            font-size: 1rem;
+            font-weight: 700;
+            color: var(--navy);
+            margin-top: 1.5rem;
+            margin-bottom: 0.5rem;
+            letter-spacing: 0.03em;
+        }
+
+        .cv-list { list-style: none; padding: 0; margin: 0; }
+        .cv-list li {
+            display: flex;
+            gap: 1rem;
+            padding: 0.5rem 0;
+            border-bottom: 1px solid var(--border);
+            font-size: 0.95rem;
+        }
+        .cv-list li:last-child { border-bottom: none; }
+        .cv-list .cv-date {
+            flex-shrink: 0;
+            width: 130px;
+            color: var(--muted);
+            font-size: 0.85rem;
+            padding-top: 0.05rem;
+        }
+
+        .pub-list { list-style: none; padding: 0; margin: 0; }
+        .pub-list li {
+            padding: 0.6rem 0 0.6rem 1.1rem;
+            border-left: 3px solid var(--border);
+            margin-bottom: 0.75rem;
+            font-size: 0.95rem;
+            transition: border-color 0.2s;
+        }
+        .pub-list li:hover { border-left-color: var(--blue); }
+        .pub-list a { color: var(--blue); text-decoration: none; }
+        .pub-list a:hover { text-decoration: underline; }
+        .pub-note {
+            background: #fff;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            color: var(--muted);
+            font-size: 0.9rem;
+            margin-bottom: 1rem;
+            padding: 0.85rem 1rem;
+        }
+        .selected-list li { border-left-color: var(--blue); }
+        .pub-summary {
+            display: block;
+            color: var(--muted);
+            font-size: 0.86rem;
+            margin-top: 0.15rem;
+        }
+        .pub-venue {
+            font-size: 0.82rem;
+            color: var(--muted);
+            font-style: italic;
+        }
+        .doi-link {
+            display: inline-block;
+            font-size: 0.78rem;
+            font-weight: 700;
+            padding: 0.1rem 0.5rem;
+            border: 1px solid var(--border);
+            border-radius: 4px;
+            color: var(--muted);
+            text-decoration: none;
+            margin-left: 0.3rem;
+            transition: border-color 0.2s, color 0.2s;
+        }
+        .doi-link:hover { border-color: var(--blue); color: var(--blue); }
+
+        .activity-list, .project-list { list-style: none; padding: 0; margin: 0; }
+        .activity-list li {
+            padding: 0.45rem 0;
+            font-size: 0.95rem;
+            border-bottom: 1px solid var(--border);
+        }
+        .activity-list li:last-child { border-bottom: none; }
+        .project-list li {
+            padding: 0.5rem 0 0.5rem 1rem;
+            border-left: 3px solid var(--border);
+            margin-bottom: 0.6rem;
+            font-size: 0.95rem;
+        }
+        .project-list .proj-years {
+            font-size: 0.82rem;
+            color: var(--muted);
+        }
+        footer {
+            margin-top: 3rem;
+            padding: 1.25rem 0;
+            text-align: center;
+            color: var(--muted);
+            font-size: 0.82rem;
+            border-top: 1px solid var(--border);
+        }
+        footer a { color: var(--muted); }
+        footer a:hover { color: var(--blue); }
+
+        @media (max-width: 767px) {
+            .profile-card { position: static; margin-bottom: 2rem; }
+            .cv-list .cv-date { width: 100px; }
+        }
+    </style>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg">
+    <div class="container-fluid" style="max-width:1060px;margin:0 auto;padding:0 1.5rem;">
+        <a class="navbar-brand" href="cn.html">陈伟伟</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+            aria-controls="navbarNav" aria-expanded="false" aria-label="切换导航">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item"><a class="nav-link" href="cn.html">首页</a></li>
+                <li class="nav-item"><a class="nav-link" href="#publications">论文著作</a></li>
+                <li class="nav-item"><a class="nav-link" href="#activities">学术兼职</a></li>
+                <li class="nav-item"><a class="nav-link" href="#talks">学术报告</a></li>
+                <li class="nav-item"><a class="nav-link" href="#grants">科研项目</a></li>
+                <li class="nav-item"><a class="nav-link language-link" href="index.html" lang="en">English</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="page-wrap">
+    <div class="row g-4">
+        <div class="col-md-8 order-md-1 order-2">
+
+            <div class="intro-box">
+                <div class="language-callout">
+                    English readers may visit: <a href="index.html" lang="en">Weiwei Chen's English homepage</a>.
+                </div>
+                <p>我是<a href="https://philosophy.sysu.edu.cn/teacher/ChenWeiwei" target="_blank" rel="noopener">中山大学哲学系、逻辑与认知研究所副教授、硕士生导师</a>。</p>
+                <p>我的研究聚焦于<strong>群体论辩</strong>的形式模型，以及它与<strong>社会选择理论</strong>、<strong>逻辑学</strong>和<strong>人工智能</strong>之间的联系。一个核心问题是：当个体拥有不同的论辩框架、判断、偏好或投票时，如何将它们聚合为群体层面的结论，并尽可能保持理性条件、语义性质和防操纵性质。</p>
+                <p>近期工作包括：群体论辩中的语义性质保持、通过拓扑限制避免不可能性结果、动态群体论辩中的修正与收缩算子、论证的比例可接受性，以及防操纵的群体论辩。</p>
+                <ul class="research-themes">
+                    <li>群体论辩</li>
+                    <li>形式论证语义</li>
+                    <li>社会选择与聚合</li>
+                    <li>逻辑与人工智能</li>
+                    <li>动态与策略性推理</li>
+                </ul>
+            </div>
+
+            <h4 class="sub-title">工作经历</h4>
+            <ul class="cv-list">
+                <li>
+                    <span class="cv-date">2024 至今</span>
+                    <span>中山大学哲学系、逻辑与认知研究所副教授、硕士生导师。</span>
+                </li>
+                <li>
+                    <span class="cv-date">2019–2024</span>
+                    <span>中山大学哲学系、逻辑与认知研究所博士后，后任副研究员。</span>
+                </li>
+            </ul>
+
+            <h4 class="sub-title" style="margin-top:1.5rem;">教育经历</h4>
+            <ul class="cv-list">
+                <li>
+                    <span class="cv-date">2015–2019</span>
+                    <span>中山大学哲学系、逻辑与认知研究所逻辑学博士。</span>
+                </li>
+                <li>
+                    <span class="cv-date">2016–2017</span>
+                    <span>荷兰阿姆斯特丹大学逻辑、语言与计算研究所（ILLC）联合培养博士生。</span>
+                </li>
+                <li>
+                    <span class="cv-date">2013–2015</span>
+                    <span>中山大学哲学系、逻辑与认知研究所逻辑学硕士。</span>
+                </li>
+                <li>
+                    <span class="cv-date">2006–2010</span>
+                    <span>广州大学软件工程专业工学学士。</span>
+                </li>
+            </ul>
+
+            <h2 class="section-title" id="publications">论文与著作</h2>
+            <div class="pub-note">
+                本页维护较完整的论文与著作列表，包括期刊论文、会议论文、著作、章节以及中文成果。<a href="https://dblp.org/pid/68/925-6.html" target="_blank" rel="noopener">DBLP</a> 收录的是我的计算机科学相关成果的一部分，并不等同于完整学术成果列表。
+            </div>
+
+            <h4 class="sub-title">代表性论文</h4>
+            <ul class="pub-list selected-list">
+                <li>
+                    Weiwei Chen and Ulle Endriss, <a href="pdf/ChenEndrissAIJ2019.pdf">Preservation of Semantic Properties in Collective Argumentation: The Case of Aggregating Abstract Argumentation Frameworks</a>. <span class="pub-venue">Artificial Intelligence, 269: 27–48, 2019.</span>
+                    <a class="doi-link" href="https://doi.org/10.1016/j.artint.2018.10.006" target="_blank" rel="noopener">DOI</a>
+                    <span class="pub-summary">关于抽象论辩框架聚合与语义性质保持的基础性工作。</span>
+                </li>
+                <li>
+                    Weiwei Chen, <a href="pdf/ChenJLC2021.pdf">Guaranteeing Admissibility of Abstract Argumentation Frameworks with Rationality and Feasibility Constraints</a>. <span class="pub-venue">Journal of Logic and Computation, 31(8): 2133–2158, 2021.</span>
+                    <a class="doi-link" href="https://doi.org/10.1093/logcom/exab011" target="_blank" rel="noopener">DOI</a>
+                    <span class="pub-summary">研究理性与可行性约束下可采纳性的保持问题。</span>
+                </li>
+                <li>
+                    Weiwei Chen, <a href="pdf/ChenJLC2023.pdf">Collective Argumentation with Topological Restrictions: The Case of Aggregating Abstract Argumentation Frameworks</a>. <span class="pub-venue">Journal of Logic and Computation, 33(2): 319–343, 2023.</span>
+                    <a class="doi-link" href="https://doi.org/10.1093/logcom/exac100" target="_blank" rel="noopener">DOI</a>
+                    <span class="pub-summary">通过论辩框架上的拓扑限制获得积极的聚合结果。</span>
+                </li>
+                <li>
+                    Weiwei Chen and Shier Ju, <a href="pdf/ChenJuIJAR2024.pdf">Dynamic Collective Argumentation: Constructing the Revision and Contraction Operators</a>. <span class="pub-venue">International Journal of Approximate Reasoning, vol. 172, 2024.</span>
+                    <a class="doi-link" href="https://doi.org/10.1016/j.ijar.2024.109234" target="_blank" rel="noopener">DOI</a>
+                    <span class="pub-summary">构造动态群体论辩中的修正与收缩算子。</span>
+                </li>
+                <li>
+                    Xiaolong Liu, Weiwei Chen, and Sylvie Doutre, <a href="https://doi.org/10.1093/logcom/exag003" target="_blank" rel="noopener">Argumentation Semantics Based on Solid Admissibility and Preservation of Semantic Properties</a>. <span class="pub-venue">Journal of Logic and Computation, 36(2): exag003, 2026.</span>
+                    <a class="doi-link" href="https://doi.org/10.1093/logcom/exag003" target="_blank" rel="noopener">DOI</a>
+                    <span class="pub-summary">围绕 solid admissibility 拓展论证语义与性质保持研究。</span>
+                </li>
+            </ul>
+
+            <h4 class="sub-title">期刊论文与会议论文</h4>
+            <ul class="pub-list">
+                <li>Xiaolong Liu, Weiwei Chen, and Sylvie Doutre, <a href="https://doi.org/10.1093/logcom/exag003" target="_blank" rel="noopener">Argumentation Semantics Based on Solid Admissibility and Preservation of Semantic Properties</a>. <span class="pub-venue">Journal of Logic and Computation, 36(2): exag003, 2026.</span> <a class="doi-link" href="https://doi.org/10.1093/logcom/exag003" target="_blank" rel="noopener">DOI</a></li>
+                <li>Xiaolong Liu and Weiwei Chen, <a href="https://doi.org/10.1007/978-981-96-7956-0_16" target="_blank" rel="noopener">Proportional Acceptability of Arguments</a>. <span class="pub-venue">Proceedings of CLAR-2025. LNCS vol. 15712. Springer, pp. 254–271, 2025.</span> <a class="doi-link" href="https://doi.org/10.1007/978-981-96-7956-0_16" target="_blank" rel="noopener">DOI</a></li>
+                <li>Weiwei Chen and Shier Ju, <a href="pdf/ChenJuIJAR2024.pdf">Dynamic Collective Argumentation: Constructing the Revision and Contraction Operators</a>. <span class="pub-venue">International Journal of Approximate Reasoning, vol. 172, 2024.</span> <a class="doi-link" href="https://doi.org/10.1016/j.ijar.2024.109234" target="_blank" rel="noopener">DOI</a></li>
+                <li>Xiaolong Liu and Weiwei Chen, On the Proportional Acceptability of Arguments in Abstract Argumentation. <span class="pub-venue">Proceedings of the 10th International Conference on Computational Models of Argument, 2024.</span></li>
+                <li>Zhe Yu, Shier Ju, and Weiwei Chen, Context-based Argumentation Frameworks and Multi-Agent Consensus Building. <span class="pub-venue">Journal of Logic and Computation, 34(2): 199–228, 2024.</span> <a class="doi-link" href="https://doi.org/10.1093/logcom/exad063" target="_blank" rel="noopener">DOI</a></li>
+                <li>Weiwei Chen, <a href="pdf/ChenJLC2023.pdf">Collective Argumentation with Topological Restrictions: The Case of Aggregating Abstract Argumentation Frameworks</a>. <span class="pub-venue">Journal of Logic and Computation, 33(2): 319–343, 2023.</span> <a class="doi-link" href="https://doi.org/10.1093/logcom/exac100" target="_blank" rel="noopener">DOI</a></li>
+                <li>Weiwei Chen, <a href="pdf/ChenCLAR2021.pdf">Collective Argumentation with Topological Restrictions</a>. <span class="pub-venue">Proceedings of CLAR-2021. LNCS vol. 13040. Springer, pp. 79–93, 2021.</span> <a class="doi-link" href="https://doi.org/10.1007/978-3-030-89391-0_5" target="_blank" rel="noopener">DOI</a></li>
+                <li>Xiaolong Liu and Weiwei Chen, <a href="pdf/LiuChenEUMAS2021.pdf">Solid Semantics for Abstract Argumentation Frameworks and the Preservation of Solid Semantic Properties</a>. <span class="pub-venue">Proceedings of EUMAS-2021. LNCS vol. 12802. Springer, pp. 178–193, 2021.</span> <a class="doi-link" href="https://doi.org/10.1007/978-3-030-82254-5_11" target="_blank" rel="noopener">DOI</a></li>
+                <li>Weiwei Chen, <a href="pdf/ChenTARK2021.pdf">Collective Argumentation: The Case of Aggregating Support-Relations of Bipolar Argumentation Frameworks</a>. <span class="pub-venue">Proceedings of TARK-2021. EPTCS 335: 87–102, 2021.</span> <a class="doi-link" href="https://doi.org/10.4204/EPTCS.335.9" target="_blank" rel="noopener">DOI</a></li>
+                <li>Weiwei Chen, <a href="pdf/ChenJLC2021.pdf">Guaranteeing Admissibility of Abstract Argumentation Frameworks with Rationality and Feasibility Constraints</a>. <span class="pub-venue">Journal of Logic and Computation, 31(8): 2133–2158, 2021.</span> <a class="doi-link" href="https://doi.org/10.1093/logcom/exab011" target="_blank" rel="noopener">DOI</a></li>
+                <li>Xiaolong Liu and Weiwei Chen, <a href="pdf/LiuChenAAMAS2021.pdf">Solid Semantics and Extension Aggregation Using Quota Rules under Integrity Constraints</a>. <span class="pub-venue">Proceedings of AAMAS-2021, 2021.</span></li>
+                <li>Weiwei Chen, <a href="pdf/ChenAAMAS2020.pdf">Aggregation of Support-Relations of Bipolar Argumentation Frameworks</a>. <span class="pub-venue">Proceedings of AAMAS-2020, 2020.</span></li>
+                <li>Weiwei Chen, <a href="pdf/ChenCLAR2020.pdf">Preservation of Admissibility with Rationality and Feasibility Constraints</a>. <span class="pub-venue">Proceedings of CLAR-2020. LNAI vol. 12061. Springer, pp. 245–258, 2020.</span> <a class="doi-link" href="https://doi.org/10.1007/978-3-030-44638-3_15" target="_blank" rel="noopener">DOI</a></li>
+                <li>Weiwei Chen and Ulle Endriss, <a href="pdf/ChenEndrissAIJ2019.pdf">Preservation of Semantic Properties in Collective Argumentation: The Case of Aggregating Abstract Argumentation Frameworks</a>. <span class="pub-venue">Artificial Intelligence, 269: 27–48, 2019.</span> <a class="doi-link" href="https://doi.org/10.1016/j.artint.2018.10.006" target="_blank" rel="noopener">DOI</a></li>
+                <li>Weiwei Chen and Ulle Endriss, <a href="pdf/ChenEndrissCOMMA2018.pdf">Aggregating Alternative Extensions of Abstract Argumentation Frameworks: Preservation Results for Quota Rules</a>. <span class="pub-venue">Proceedings of COMMA-2018. Frontiers in AI and Applications vol. 305. IOS Press, pp. 425–436, 2018.</span> <a class="doi-link" href="https://doi.org/10.3233/978-1-61499-906-5-425" target="_blank" rel="noopener">DOI</a></li>
+                <li>Weiwei Chen and Ulle Endriss, <a href="pdf/ChenEndrissTARK2017.pdf">Preservation of Semantic Properties during the Aggregation of Abstract Argumentation Frameworks</a>. <span class="pub-venue">Proceedings of TARK-2017. EPTCS 251: 118–133, 2017.</span> <a class="doi-link" href="https://doi.org/10.4204/EPTCS.251.9" target="_blank" rel="noopener">DOI</a></li>
+            </ul>
+
+            <h4 class="sub-title">著作与章节</h4>
+            <ul class="pub-list">
+                <li>陈伟伟，《论辩聚合：社会选择理论的新视角》. <span class="pub-venue">人民出版社，即将出版.</span></li>
+                <li>刘小龙、陈伟伟，《论证挖掘与论证形式化》第十二章. <span class="pub-venue">鞠实儿等著，科学出版社，2022.</span></li>
+                <li>陈伟伟、Ulle Endriss，《融合与修正：跨文化交流的逻辑与认知研究》第五章. <span class="pub-venue">鞠实儿等著，经济科学出版社，2020.</span></li>
+            </ul>
+
+            <h2 class="section-title" id="activities">学术兼职</h2>
+            <div class="row g-0">
+                <div class="col-md-6 pe-md-3">
+                    <ul class="activity-list">
+                        <li>ECAI 欧洲人工智能会议程序委员会委员（2024、2025）</li>
+                        <li>AAMAS 国际智能体及多智能体系统会议程序委员会委员（2023、2024、2025）</li>
+                        <li>PRICAI 亚太人工智能会议程序委员会委员（2023、2024）</li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <ul class="activity-list">
+                        <li>CLAR 国际逻辑与论证会议程序委员会委员（2020、2023、2025）</li>
+                        <li>IJCAI 国际人工智能联合会议程序委员会委员（2020、2025）</li>
+                        <li>LNGAI 逻辑与新一代人工智能会议程序委员会委员（2023、2024）</li>
+                        <li><em>Autonomous Agents and Multi-Agent Systems</em>、<em>Journal of Applied Non-Classical Logics</em>、《逻辑学研究》审稿人</li>
+                    </ul>
+                </div>
+            </div>
+
+            <h2 class="section-title" id="talks">学术报告</h2>
+            <ul class="activity-list">
+                <li>Constructing the Revision and Contraction Operators for Dynamic Collective Argumentation. 第三届逻辑与多主体国际会议，浙江大学，2024年6月。</li>
+                <li>Dynamically Rational Collective Argumentation. 第三届逻辑与哲学研讨会，清华大学，2024年5月。<a href="http://tsinghualogic.net/JRC/3rdilpw/">[会议页面]</a></li>
+                <li>Collective Argumentation: Static and Dynamic Perspectives. 北京大学逻辑语言与认知研究中心研讨会，2024年3月。<a href="https://logic.pku.edu.cn/xzdt/ltjh/534987.htm">[活动页面]</a></li>
+                <li>Dynamic Collective Argumentation. Trends in Logic，波兰托伦，2023年11月。<a href="https://sites.google.com/view/trends-bless-2023/">[活动页面]</a></li>
+                <li>Applying the Axiomatic Method to Collective Argumentation. University of Luxembourg Individual and Collective Reasoning Group Seminar，2022年2月。</li>
+                <li>Collective Argumentation with Topological Restrictions. CLAR-2021，线上，2021年10月。<a href="https://www.xixilogic.org/events/clar2021/">[会议页面]</a></li>
+                <li>Collective Argumentation: The Case of Aggregation of Support-Relations of Bipolar Argumentation Frameworks. TARK-2021，线上，2021年6月。</li>
+                <li>Aggregation of Support-Relations of Bipolar Argumentation Frameworks. AAMAS-2020，线上，2020年5月。</li>
+                <li>Aggregating Extensions of Abstract Argumentation Frameworks. Computational Social Choice Seminar，ILLC，University of Amsterdam，2018年9月。<a href="https://www.illc.uva.nl/NewsandEvents/Events/Upcoming-Events/newsitem/10156/19-September-2018-Computational-Social-Choice-Seminar-Weiwei-Chen">[活动页面]</a></li>
+                <li>What Can We Expect from Consensus Decision-making? Cool Logic Seminar，University of Amsterdam，2017年9月。<a href="http://events.illc.uva.nl/coollogic/talks/77">[活动页面]</a></li>
+            </ul>
+
+            <h2 class="section-title" id="grants">科研项目</h2>
+            <ul class="project-list">
+                <li>公理化群体论辩的可能性和防操纵性研究. <span class="proj-years">广东省自然科学基金面上项目，2024A1515012540.</span></li>
+                <li>基于社会选择方法的论辩聚合理论研究. <span class="proj-years">国家社会科学基金后期资助一般项目，22FZXB093.</span></li>
+                <li>公理化群体论辩理论. <span class="proj-years">教育部人文社会科学研究青年基金，22YJC72040001.</span></li>
+                <li>形式论辩中的双极论辩框架与分级论辩语义聚合研究. <span class="proj-years">中国博士后科学基金面上项目，2019M663352.</span></li>
+            </ul>
+
+            <h2 class="section-title" id="students">招生与指导</h2>
+            <p>欢迎对形式论证、社会选择理论、AI中的逻辑、计算论证模型与群体决策问题感兴趣的硕士生与我联系。</p>
+        </div>
+
+        <div class="col-md-4 order-md-2 order-1">
+            <div class="profile-card">
+                <h4>陈伟伟</h4>
+                <div class="title-line">形式论证 / 社会选择</div>
+                <img src="face.jpg" alt="陈伟伟照片">
+                <div class="address">
+                    <a class="email-link" href="mailto:chenweiwei@mail.sysu.edu.cn">chenweiwei@mail.sysu.edu.cn</a><br><br>
+                    副教授 / 硕士生导师<br>
+                    逻辑与认知研究所<br>
+                    哲学系<br>
+                    <a href="https://www.sysu.edu.cn/" target="_blank" rel="noopener">中山大学</a><br>
+                    中国广州 510275
+                </div>
+                <div class="profile-links">
+                    <a href="index.html" lang="en">English</a>
+                    <a href="cv/Weiwei_Chen_CV.pdf" target="_blank" rel="noopener">CV</a>
+                    <a href="https://scholar.google.com/citations?user=I8ISBZAAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
+                    <a href="https://orcid.org/0000-0002-3447-8163" target="_blank" rel="noopener">ORCID</a>
+                    <a href="https://dblp.org/pid/68/925-6.html" target="_blank" rel="noopener">DBLP</a>
+                    <a href="https://philosophy.sysu.edu.cn/teacher/ChenWeiwei" target="_blank" rel="noopener">学院主页</a>
+                </div>
+                <div class="profile-note">DBLP 仅收录我的部分计算机科学相关成果。完整、经整理的成果列表请以本主页为准。</div>
+                <div class="last-updated">最后更新：2026年5月19日</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer>
+    <p>英文主页：<a href="index.html">Weiwei Chen</a> · 模板基于 <a href="https://github.com/mavroudisv/plain-academic" target="_blank" rel="noopener">Plain Academic</a></p>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

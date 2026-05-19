@@ -4,8 +4,8 @@
     <!-- SEO Meta Tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Weiwei Chen - Associate Professor at Sun Yat-sen University specializing in argumentation theory, logic, and social choice.">
-    <meta name="keywords" content="Weiwei Chen, Argumentation Theory, Logic, Social Choice, Sun Yat-sen University, Philosophy, AI">
+    <meta name="description" content="Weiwei Chen - Associate Professor and MA supervisor at Sun Yat-sen University. Research in collective argumentation, formal argumentation, social choice theory, logic, and AI.">
+    <meta name="keywords" content="Weiwei Chen, Chen Weiwei, 陈伟伟, Collective Argumentation, Formal Argumentation, Social Choice Theory, Logic, Artificial Intelligence, Sun Yat-sen University, Philosophy">
 
     <title>Weiwei Chen</title>
 
@@ -151,6 +151,12 @@
             font-size: 0.78rem;
             color: var(--muted);
         }
+        .profile-note {
+            margin-top: 0.9rem;
+            color: var(--muted);
+            font-size: 0.78rem;
+            line-height: 1.45;
+        }
 
         /* ── Bio / Intro ── */
         .intro-box {
@@ -168,6 +174,24 @@
             padding-top: 1rem;
             font-size: 0.95rem;
             color: var(--muted);
+        }
+        .research-themes {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.45rem;
+            padding: 0;
+            margin: 1rem 0 0;
+            list-style: none;
+        }
+        .research-themes li {
+            background: #fff;
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            color: var(--navy);
+            font-size: 0.84rem;
+            font-weight: 600;
+            line-height: 1.3;
+            padding: 0.32rem 0.7rem;
         }
 
         /* ── Section headings ── */
@@ -222,6 +246,24 @@
         .pub-list li:hover { border-left-color: var(--blue); }
         .pub-list a { color: var(--blue); text-decoration: none; }
         .pub-list a:hover { text-decoration: underline; }
+        .pub-note {
+            background: #fff;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            color: var(--muted);
+            font-size: 0.9rem;
+            margin-bottom: 1rem;
+            padding: 0.85rem 1rem;
+        }
+        .selected-list li {
+            border-left-color: var(--blue);
+        }
+        .pub-summary {
+            display: block;
+            color: var(--muted);
+            font-size: 0.86rem;
+            margin-top: 0.15rem;
+        }
         .pub-venue {
             font-size: 0.82rem;
             color: var(--muted);
@@ -300,7 +342,8 @@
                 <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
                 <li class="nav-item"><a class="nav-link" href="#publications">Publications</a></li>
                 <li class="nav-item"><a class="nav-link" href="#activities">Activities</a></li>
-                <li class="nav-item"><a class="nav-link" href="#projects">Projects</a></li>
+                <li class="nav-item"><a class="nav-link" href="#talks">Talks</a></li>
+                <li class="nav-item"><a class="nav-link" href="#grants">Grants</a></li>
             </ul>
         </div>
     </div>
@@ -315,14 +358,17 @@
 
             <!-- Bio -->
             <div class="intro-box">
-                <p>I am an <a href="http://philosophy.sysu.edu.cn/teacher/ChenWeiwei">associate professor</a> at the Institute of Logic and Cognition and Department of Philosophy, <a href="https://en.wikipedia.org/wiki/Sun_Yat-sen_University">Sun Yat-sen University</a>, China.</p>
-                <p>My research navigates the intersection of <strong>argumentation theory</strong>, <strong>logic</strong>, and <strong>social choice</strong>. It is inherently interdisciplinary, spanning <strong>philosophy</strong>, <strong>logic</strong>, and <strong>artificial intelligence</strong>. My work is dedicated to exploring <strong>collective decision-making processes</strong>, with a particular focus on:</p>
-                <ul style="margin-bottom:0.5rem;">
-                    <li><strong>Formal Argumentation:</strong> Investigating the structure and dynamics of arguments and debates, and how they influence collective outcomes.</li>
-                    <li><strong>Social Choice Theory:</strong> Analyzing methods for aggregating individual argumentative preferences, judgments, or votes into a collective decision.</li>
-                    <li><strong>Interdisciplinary Applications:</strong> Bridging the gap between theoretical insights and practical applications in AI, particularly in the realm of collective decision-making.</li>
+                <p>I am an <a href="https://philosophy.sysu.edu.cn/teacher/ChenWeiwei" target="_blank" rel="noopener">associate professor and MA supervisor</a> at the Institute of Logic and Cognition and Department of Philosophy, <a href="https://www.sysu.edu.cn/" target="_blank" rel="noopener">Sun Yat-sen University</a>, China.</p>
+                <p>My research studies <strong>formal models of collective argumentation</strong> and their connections to <strong>social choice theory</strong>, <strong>logic</strong>, and <strong>artificial intelligence</strong>. I ask how individual argumentation frameworks, judgments, preferences, or votes can be aggregated into collective outcomes while preserving rationality, semantic, and strategic properties.</p>
+                <p>Recent work develops preservation results for collective argumentation, topological restrictions that avoid impossibility results, dynamic revision and contraction operators, proportional acceptability, and strategyproof collective argumentation.</p>
+                <ul class="research-themes">
+                    <li>Collective argumentation</li>
+                    <li>Formal argumentation semantics</li>
+                    <li>Social choice and aggregation</li>
+                    <li>Logic and AI</li>
+                    <li>Dynamic and strategic reasoning</li>
                 </ul>
-                <p class="chinese-bio">我是中山大学哲学系、逻辑与认知研究所副教授陈伟伟。我专注于形式论证（formal argumentation）和社会选择理论（social choice theory）。研究位于论证学、逻辑学、政治经济学与AI的交汇处，着重探讨群体决策问题。</p>
+                <p class="chinese-bio">我是中山大学哲学系、逻辑与认知研究所副教授、硕士生导师陈伟伟。我专注于形式论证（formal argumentation）和社会选择理论（social choice theory）。研究位于论证学、逻辑学、政治经济学与AI的交汇处，着重探讨群体决策问题。</p>
             </div>
 
             <!-- Employment -->
@@ -330,7 +376,7 @@
             <ul class="cv-list">
                 <li>
                     <span class="cv-date">2024 – present</span>
-                    <span>Associate Professor, Institute of Logic and Cognition, Department of Philosophy, <a href="https://en.wikipedia.org/wiki/Sun_Yat-sen_University">Sun Yat-sen University</a>, China.</span>
+                    <span>Associate Professor and MA Supervisor, Institute of Logic and Cognition, Department of Philosophy, <a href="https://www.sysu.edu.cn/" target="_blank" rel="noopener">Sun Yat-sen University</a>, China.</span>
                 </li>
                 <li>
                     <span class="cv-date">2019 – 2024</span>
@@ -361,40 +407,79 @@
 
             <!-- Publications -->
             <h2 class="section-title" id="publications">Publications</h2>
-            <ul class="pub-list">
+            <div class="pub-note">
+                This page is my curated publication list and includes journal articles, conference papers, books, book chapters, and Chinese-language publications. <a href="https://dblp.org/pid/68/925-6.html" target="_blank" rel="noopener">DBLP</a> indexes a useful but partial subset of my computer-science-related work.
+            </div>
+
+            <h4 class="sub-title">Selected Publications</h4>
+            <ul class="pub-list selected-list">
                 <li>
-                    Xiaolong Liu, Weiwei Chen, and Sylvie Doutre, <a href="#">Argumentation Semantics Based on Solid Admissibility and Preservation of Semantic Properties</a>. <span class="pub-venue">Journal of Logic and Computation, vol. 36, no. 2, 2026.</span>
-                    <a class="doi-link" href="https://doi.org/10.1093/logcom/exag003">DOI</a>
+                    Weiwei Chen and Ulle Endriss, <a href="pdf/ChenEndrissAIJ2019.pdf">Preservation of Semantic Properties in Collective Argumentation: The Case of Aggregating Abstract Argumentation Frameworks</a>. <span class="pub-venue">Artificial Intelligence, 269: 27–48, 2019.</span>
+                    <a class="doi-link" href="https://doi.org/10.1016/j.artint.2018.10.006" target="_blank" rel="noopener">DOI</a>
+                    <span class="pub-summary">A foundational paper on collective argumentation and the preservation of semantic properties under aggregation.</span>
                 </li>
                 <li>
-                    Xiaolong Liu and Weiwei Chen, <a href="#">Proportional Acceptability of Arguments</a>. <span class="pub-venue">Proceedings of CLAR-2025. LNCS vol. 15712. Springer, pp. 254–271, 2025.</span>
-                    <a class="doi-link" href="https://doi.org/10.1007/978-981-96-7956-0_16">DOI</a>
+                    Weiwei Chen, <a href="pdf/ChenJLC2021.pdf">Guaranteeing Admissibility of Abstract Argumentation Frameworks with Rationality and Feasibility Constraints</a>. <span class="pub-venue">Journal of Logic and Computation, 31(8): 2133–2158, 2021.</span>
+                    <a class="doi-link" href="https://doi.org/10.1093/logcom/exab011" target="_blank" rel="noopener">DOI</a>
+                    <span class="pub-summary">Studies admissibility preservation under rationality and feasibility constraints.</span>
+                </li>
+                <li>
+                    Weiwei Chen, <a href="pdf/ChenJLC2023.pdf">Collective Argumentation with Topological Restrictions: The Case of Aggregating Abstract Argumentation Frameworks</a>. <span class="pub-venue">Journal of Logic and Computation, 33(2): 319–343, 2023.</span>
+                    <a class="doi-link" href="https://doi.org/10.1093/logcom/exac100" target="_blank" rel="noopener">DOI</a>
+                    <span class="pub-summary">Shows how domain restrictions can help recover positive aggregation results.</span>
                 </li>
                 <li>
                     Weiwei Chen and Shier Ju, <a href="pdf/ChenJuIJAR2024.pdf">Dynamic Collective Argumentation: Constructing the Revision and Contraction Operators</a>. <span class="pub-venue">International Journal of Approximate Reasoning, vol. 172, 2024.</span>
-                    <a class="doi-link" href="https://doi.org/10.1016/j.ijar.2024.109234">DOI</a>
+                    <a class="doi-link" href="https://doi.org/10.1016/j.ijar.2024.109234" target="_blank" rel="noopener">DOI</a>
+                    <span class="pub-summary">Develops dynamic revision and contraction operators for collective argumentation.</span>
+                </li>
+                <li>
+                    Xiaolong Liu, Weiwei Chen, and Sylvie Doutre, <a href="https://doi.org/10.1093/logcom/exag003" target="_blank" rel="noopener">Argumentation Semantics Based on Solid Admissibility and Preservation of Semantic Properties</a>. <span class="pub-venue">Journal of Logic and Computation, 36(2): exag003, 2026.</span>
+                    <a class="doi-link" href="https://doi.org/10.1093/logcom/exag003" target="_blank" rel="noopener">DOI</a>
+                    <span class="pub-summary">Extends the preservation program through solid admissibility and related semantics.</span>
+                </li>
+            </ul>
+
+            <h4 class="sub-title">Journal Articles and Conference Papers</h4>
+            <ul class="pub-list">
+                <li>
+                    Xiaolong Liu, Weiwei Chen, and Sylvie Doutre, <a href="https://doi.org/10.1093/logcom/exag003" target="_blank" rel="noopener">Argumentation Semantics Based on Solid Admissibility and Preservation of Semantic Properties</a>. <span class="pub-venue">Journal of Logic and Computation, 36(2): exag003, 2026.</span>
+                    <a class="doi-link" href="https://doi.org/10.1093/logcom/exag003" target="_blank" rel="noopener">DOI</a>
+                </li>
+                <li>
+                    Xiaolong Liu and Weiwei Chen, <a href="https://doi.org/10.1007/978-981-96-7956-0_16" target="_blank" rel="noopener">Proportional Acceptability of Arguments</a>. <span class="pub-venue">Proceedings of CLAR-2025. LNCS vol. 15712. Springer, pp. 254–271, 2025.</span>
+                    <a class="doi-link" href="https://doi.org/10.1007/978-981-96-7956-0_16" target="_blank" rel="noopener">DOI</a>
+                </li>
+                <li>
+                    Weiwei Chen and Shier Ju, <a href="pdf/ChenJuIJAR2024.pdf">Dynamic Collective Argumentation: Constructing the Revision and Contraction Operators</a>. <span class="pub-venue">International Journal of Approximate Reasoning, vol. 172, 2024.</span>
+                    <a class="doi-link" href="https://doi.org/10.1016/j.ijar.2024.109234" target="_blank" rel="noopener">DOI</a>
                 </li>
                 <li>
                     Xiaolong Liu and Weiwei Chen, On the Proportional Acceptability of Arguments in Abstract Argumentation. <span class="pub-venue">Proceedings of the 10th International Conference on Computational Models of Argument, 2024.</span>
                 </li>
                 <li>
                     Zhe Yu, Shier Ju, and Weiwei Chen, Context-based Argumentation Frameworks and Multi-Agent Consensus Building. <span class="pub-venue">Journal of Logic and Computation, 34(2): 199–228, 2024.</span>
-                    <a class="doi-link" href="https://doi.org/10.1093/logcom/exad063">DOI</a>
+                    <a class="doi-link" href="https://doi.org/10.1093/logcom/exad063" target="_blank" rel="noopener">DOI</a>
                 </li>
                 <li>
                     Weiwei Chen, <a href="pdf/ChenJLC2023.pdf">Collective Argumentation with Topological Restrictions: The Case of Aggregating Abstract Argumentation Frameworks</a>. <span class="pub-venue">Journal of Logic and Computation, 33(2): 319–343, 2023.</span>
+                    <a class="doi-link" href="https://doi.org/10.1093/logcom/exac100" target="_blank" rel="noopener">DOI</a>
                 </li>
                 <li>
                     Weiwei Chen, <a href="pdf/ChenCLAR2021.pdf">Collective Argumentation with Topological Restrictions</a>. <span class="pub-venue">Proceedings of CLAR-2021. LNCS vol. 13040. Springer, pp. 79–93, 2021.</span>
+                    <a class="doi-link" href="https://doi.org/10.1007/978-3-030-89391-0_5" target="_blank" rel="noopener">DOI</a>
                 </li>
                 <li>
                     Xiaolong Liu and Weiwei Chen, <a href="pdf/LiuChenEUMAS2021.pdf">Solid Semantics for Abstract Argumentation Frameworks and the Preservation of Solid Semantic Properties</a>. <span class="pub-venue">Proceedings of EUMAS-2021. LNCS vol. 12802. Springer, pp. 178–193, 2021.</span>
+                    <a class="doi-link" href="https://doi.org/10.1007/978-3-030-82254-5_11" target="_blank" rel="noopener">DOI</a>
                 </li>
                 <li>
                     Weiwei Chen, <a href="pdf/ChenTARK2021.pdf">Collective Argumentation: The Case of Aggregating Support-Relations of Bipolar Argumentation Frameworks</a>. <span class="pub-venue">Proceedings of TARK-2021. EPTCS 335: 87–102, 2021.</span>
+                    <a class="doi-link" href="https://doi.org/10.4204/EPTCS.335.9" target="_blank" rel="noopener">DOI</a>
                 </li>
                 <li>
                     Weiwei Chen, <a href="pdf/ChenJLC2021.pdf">Guaranteeing Admissibility of Abstract Argumentation Frameworks with Rationality and Feasibility Constraints</a>. <span class="pub-venue">Journal of Logic and Computation, 31(8): 2133–2158, 2021.</span>
+                    <a class="doi-link" href="https://doi.org/10.1093/logcom/exab011" target="_blank" rel="noopener">DOI</a>
                 </li>
                 <li>
                     Xiaolong Liu and Weiwei Chen, <a href="pdf/LiuChenAAMAS2021.pdf">Solid Semantics and Extension Aggregation Using Quota Rules under Integrity Constraints</a>. <span class="pub-venue">Proceedings of AAMAS-2021, 2021.</span>
@@ -404,15 +489,32 @@
                 </li>
                 <li>
                     Weiwei Chen, <a href="pdf/ChenCLAR2020.pdf">Preservation of Admissibility with Rationality and Feasibility Constraints</a>. <span class="pub-venue">Proceedings of CLAR-2020. LNAI vol. 12061. Springer, pp. 245–258, 2020.</span>
+                    <a class="doi-link" href="https://doi.org/10.1007/978-3-030-44638-3_15" target="_blank" rel="noopener">DOI</a>
                 </li>
                 <li>
                     Weiwei Chen and Ulle Endriss, <a href="pdf/ChenEndrissAIJ2019.pdf">Preservation of Semantic Properties in Collective Argumentation: The Case of Aggregating Abstract Argumentation Frameworks</a>. <span class="pub-venue">Artificial Intelligence, 269: 27–48, 2019.</span>
+                    <a class="doi-link" href="https://doi.org/10.1016/j.artint.2018.10.006" target="_blank" rel="noopener">DOI</a>
                 </li>
                 <li>
                     Weiwei Chen and Ulle Endriss, <a href="pdf/ChenEndrissCOMMA2018.pdf">Aggregating Alternative Extensions of Abstract Argumentation Frameworks: Preservation Results for Quota Rules</a>. <span class="pub-venue">Proceedings of COMMA-2018. Frontiers in AI and Applications vol. 305. IOS Press, pp. 425–436, 2018.</span>
+                    <a class="doi-link" href="https://doi.org/10.3233/978-1-61499-906-5-425" target="_blank" rel="noopener">DOI</a>
                 </li>
                 <li>
                     Weiwei Chen and Ulle Endriss, <a href="pdf/ChenEndrissTARK2017.pdf">Preservation of Semantic Properties during the Aggregation of Abstract Argumentation Frameworks</a>. <span class="pub-venue">Proceedings of TARK-2017. EPTCS 251: 118–133, 2017.</span>
+                    <a class="doi-link" href="https://doi.org/10.4204/EPTCS.251.9" target="_blank" rel="noopener">DOI</a>
+                </li>
+            </ul>
+
+            <h4 class="sub-title">Books and Book Chapters</h4>
+            <ul class="pub-list">
+                <li>
+                    陈伟伟, 《论辩聚合：社会选择理论的新视角》. <span class="pub-venue">人民出版社, forthcoming.</span>
+                </li>
+                <li>
+                    刘小龙、陈伟伟, 《论证挖掘与论证形式化》第十二章. <span class="pub-venue">鞠实儿等著, 科学出版社, 2022.</span>
+                </li>
+                <li>
+                    陈伟伟 and Ulle Endriss, 《融合与修正：跨文化交流的逻辑与认知研究》第五章. <span class="pub-venue">鞠实儿等著, 经济科学出版社, 2020.</span>
                 </li>
             </ul>
 
@@ -421,7 +523,7 @@
             <div class="row g-0">
                 <div class="col-md-6 pe-md-3">
                     <ul class="activity-list">
-                        <li>AAMAS: International Conference on Autonomous Agents and Multiagent Systems (2024, 2025)</li>
+                        <li>AAMAS: International Conference on Autonomous Agents and Multiagent Systems (2023, 2024, 2025)</li>
                         <li>PRICAI: Pacific Rim International Conference on Artificial Intelligence (2023, 2024)</li>
                         <li>LNGAI: International Workshop on Logics for New-Generation Artificial Intelligence (2023, 2024)</li>
                     </ul>
@@ -429,37 +531,48 @@
                 <div class="col-md-6">
                     <ul class="activity-list">
                         <li>ECAI: European Conference on Artificial Intelligence (2024, 2025)</li>
-                        <li>CLAR: International Conference on Logic and Argumentation (2020, 2023)</li>
-                        <li>IJCAI: International Joint Conference on Artificial Intelligence (2021, 2025)</li>
+                        <li>CLAR: International Conference on Logic and Argumentation (2020, 2023, 2025)</li>
+                        <li>IJCAI: International Joint Conference on Artificial Intelligence (2020, 2025)</li>
+                        <li>Reviewer for <em>Autonomous Agents and Multi-Agent Systems</em>, <em>Journal of Applied Non-Classical Logics</em>, and <em>Studies in Logic</em></li>
                     </ul>
                 </div>
             </div>
 
             <!-- Recent Talks -->
-            <h2 class="section-title" id="talks">Recent Talks</h2>
+            <h2 class="section-title" id="talks">Selected Talks</h2>
             <ul class="activity-list">
                 <li>Constructing the Revision and Contraction Operators for Dynamic Collective Argumentation. <em>The 3rd International Workshop on Logic for Multi-Agent Systems</em>, Zhejiang, China, June 2024.</li>
                 <li>Collective Argumentation: Static and Dynamic Perspectives. <em>Seminar at PKU Center of Logic, Language, and Cognition</em>, Beijing, China, Mar. 2024. <a href="https://logic.pku.edu.cn/xzdt/ltjh/534987.htm">[Event page]</a></li>
                 <li>Dynamically Rational Collective Argumentation. <em>The 3rd International Workshop on Logic and Philosophy</em>, Beijing, China, May 2024. <a href="http://tsinghualogic.net/JRC/3rdilpw/">[Event page]</a></li>
                 <li>Dynamic Collective Argumentation. <em>Trends in Logic</em>, Online, Nov. 2023. <a href="https://sites.google.com/view/trends-bless-2023/">[Event page]</a></li>
+                <li>Applying the Axiomatic Method to Collective Argumentation. <em>Individual and Collective Reasoning Group Seminar</em>, University of Luxembourg, Feb. 2022.</li>
+                <li>Collective Argumentation with Topological Restrictions. <em>CLAR-2021</em>, Online, Oct. 2021. <a href="https://www.xixilogic.org/events/clar2021/">[Event page]</a></li>
+                <li>Collective Argumentation: The Case of Aggregation of Support-Relations of Bipolar Argumentation Frameworks. <em>TARK-2021</em>, Online, June 2021.</li>
+                <li>Aggregation of Support-Relations of Bipolar Argumentation Frameworks. <em>AAMAS-2020</em>, Online, May 2020.</li>
+                <li>Aggregating Extensions of Abstract Argumentation Frameworks. <em>Computational Social Choice Seminar</em>, ILLC, University of Amsterdam, Sept. 2018. <a href="https://www.illc.uva.nl/NewsandEvents/Events/Upcoming-Events/newsitem/10156/19-September-2018-Computational-Social-Choice-Seminar-Weiwei-Chen">[Event page]</a></li>
+                <li>What Can We Expect from Consensus Decision-making? <em>Cool Logic Seminar</em>, University of Amsterdam, Sept. 2017. <a href="http://events.illc.uva.nl/coollogic/talks/77">[Event page]</a></li>
             </ul>
 
-            <!-- Projects -->
-            <h2 class="section-title" id="projects">Projects</h2>
+            <!-- Grants -->
+            <h2 class="section-title" id="grants">Research Grants</h2>
             <ul class="project-list">
                 <li>
-                    Strategyproof Collective Argumentation. <span class="proj-years">Natural Science Foundation of Guangdong, China (2024–2026).</span>
+                    公理化群体论辩的可能性和防操纵性研究. <span class="proj-years">Natural Science Foundation of Guangdong, China, 2024A1515012540.</span>
                 </li>
                 <li>
-                    Applying Methods from Social Choice to the Aggregation of Argumentation. <span class="proj-years">National Social Science Fund of China (2022–2024).</span>
+                    基于社会选择方法的论辩聚合理论研究. <span class="proj-years">National Social Science Fund of China, 22FZXB093.</span>
                 </li>
                 <li>
-                    Axiomatic Method in Collective Argumentation. <span class="proj-years">Ministry of Education of China (2022–2024).</span>
+                    公理化群体论辩理论. <span class="proj-years">Ministry of Education of China, Humanities and Social Sciences Youth Fund, 22YJC72040001.</span>
                 </li>
                 <li>
-                    Collective Bipolar Argumentation. <span class="proj-years">China Postdoctoral Science Foundation Grant (2019–2022).</span>
+                    形式论辩中的双极论辩框架与分级论辩语义聚合研究. <span class="proj-years">China Postdoctoral Science Foundation, 2019M663352.</span>
                 </li>
             </ul>
+
+            <!-- Students -->
+            <h2 class="section-title" id="students">Students</h2>
+            <p>I welcome MA students interested in formal argumentation, social choice theory, logic in AI, computational models of argument, and collective decision-making.</p>
 
         </div><!-- /main column -->
 
@@ -471,17 +584,20 @@
                 <img src="face.jpg" alt="Portrait of Weiwei Chen">
                 <div class="address">
                     <a class="email-link" href="mailto:chenweiwei@mail.sysu.edu.cn">chenweiwei@mail.sysu.edu.cn</a><br><br>
-                    Associate Professor<br>
+                    Associate Professor / MA Supervisor<br>
                     Institute of Logic and Cognition<br>
                     Department of Philosophy<br>
-                    <a href="https://en.wikipedia.org/wiki/Sun_Yat-sen_University">Sun Yat-sen University</a><br>
+                    <a href="https://www.sysu.edu.cn/" target="_blank" rel="noopener">Sun Yat-sen University</a><br>
                     Guangzhou 510275, China
                 </div>
                 <div class="profile-links">
                     <a href="https://scholar.google.com/citations?user=I8ISBZAAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
-                    <a href="http://philosophy.sysu.edu.cn/teacher/ChenWeiwei" target="_blank" rel="noopener">Faculty Page</a>
+                    <a href="https://orcid.org/0000-0002-3447-8163" target="_blank" rel="noopener">ORCID</a>
+                    <a href="https://dblp.org/pid/68/925-6.html" target="_blank" rel="noopener">DBLP</a>
+                    <a href="https://philosophy.sysu.edu.cn/teacher/ChenWeiwei" target="_blank" rel="noopener">Faculty Page</a>
                 </div>
-                <div class="last-updated">Last updated: May 15, 2026</div>
+                <div class="profile-note">DBLP indexes a partial subset of my computer-science-related publications. The complete curated list is maintained on this page.</div>
+                <div class="last-updated">Last updated: May 19, 2026</div>
             </div>
         </div>
 

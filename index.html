@@ -355,8 +355,9 @@
             .cv-list .cv-date { width: 100px; }
         }
     </style>
+    <link rel="stylesheet" href="homepage.css">
 </head>
-<body>
+<body class="en-page">
 
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg">
@@ -381,16 +382,30 @@
 
 <!-- Page Content -->
 <div class="page-wrap">
-    <div class="row g-4">
+    <header class="hero">
+        <div class="hero-copy">
+            <p class="hero-kicker">Logic · Argumentation · Collective Choice</p>
+            <h1>Weiwei Chen</h1>
+            <p class="hero-role">Associate Professor · Sun Yat-sen University</p>
+            <p class="hero-statement">I study how individual arguments, judgments, and preferences can become rational collective decisions.</p>
+            <div class="hero-actions">
+                <a class="hero-action primary" href="#publications">Selected work</a>
+                <a class="hero-action" href="cv/Weiwei_Chen_CV.pdf" target="_blank" rel="noopener">Curriculum vitae</a>
+                <a class="hero-action" href="https://scholar.google.com/citations?user=I8ISBZAAAAAJ&amp;hl=en" target="_blank" rel="noopener">Google Scholar</a>
+            </div>
+        </div>
+        <div class="hero-portrait">
+            <img src="face.jpg" alt="Portrait of Weiwei Chen">
+        </div>
+    </header>
+
+    <div class="row content-grid">
 
         <!-- Main Column -->
-        <div class="col-md-8 order-md-1 order-2">
+        <div class="col-md-8">
 
-            <!-- Bio -->
+            <!-- Research overview -->
             <div class="intro-box">
-                <div class="language-callout" lang="zh-CN">
-                    中文读者可访问：<a href="cn.html">陈伟伟中文主页</a>。
-                </div>
                 <p>I am an <a href="https://philosophy.sysu.edu.cn/teacher/ChenWeiwei" target="_blank" rel="noopener">associate professor</a> at the Institute of Logic and Cognition and Department of Philosophy, <a href="https://www.sysu.edu.cn/" target="_blank" rel="noopener">Sun Yat-sen University</a>, China.</p>
                 <p>My research studies <strong>formal models of collective argumentation</strong> and their connections to <strong>social choice theory</strong>, <strong>logic</strong>, and <strong>artificial intelligence</strong>. I ask how individual argumentation frameworks, judgments, preferences, or votes can be aggregated into collective outcomes while preserving rationality, semantic, and strategic properties.</p>
                 <p>Recent work develops preservation results for collective argumentation, topological restrictions that avoid impossibility results, dynamic revision and contraction operators, proportional acceptability, and strategyproof collective argumentation.</p>
@@ -401,42 +416,7 @@
                     <li>Logic and AI</li>
                     <li>Dynamic and strategic reasoning</li>
                 </ul>
-                <p class="chinese-bio">我是中山大学哲学系、逻辑与认知研究所副教授、硕士生导师陈伟伟。我专注于形式论证（formal argumentation）和社会选择理论（social choice theory）。研究位于论证学、逻辑学、政治经济学与AI的交汇处，着重探讨群体决策问题。</p>
             </div>
-
-            <!-- Employment -->
-            <h4 class="sub-title">Employment</h4>
-            <ul class="cv-list">
-                <li>
-                    <span class="cv-date">2024 – present</span>
-                    <span>Associate Professor, Institute of Logic and Cognition, Department of Philosophy, <a href="https://www.sysu.edu.cn/" target="_blank" rel="noopener">Sun Yat-sen University</a>, China.</span>
-                </li>
-                <li>
-                    <span class="cv-date">2019 – 2024</span>
-                    <span>Postdoctoral Researcher, then Associate Researcher, Institute of Logic and Cognition, Department of Philosophy, Sun Yat-sen University, China.</span>
-                </li>
-            </ul>
-
-            <!-- Education -->
-            <h4 class="sub-title" style="margin-top:1.5rem;">Education</h4>
-            <ul class="cv-list">
-                <li>
-                    <span class="cv-date">2015 – 2019</span>
-                    <span>PhD in Logic, Institute of Logic and Cognition, Department of Philosophy, <a href="https://en.wikipedia.org/wiki/Sun_Yat-sen_University">Sun Yat-sen University</a>, China.</span>
-                </li>
-                <li>
-                    <span class="cv-date">2016 – 2017</span>
-                    <span>Visiting PhD Student, <a href="https://illc.uva.nl/">Institute for Logic, Language and Computation</a>, <a href="https://uva.nl/en">University of Amsterdam</a>, Netherlands.</span>
-                </li>
-                <li>
-                    <span class="cv-date">2013 – 2015</span>
-                    <span>MSc in Logic, Institute of Logic and Cognition, Department of Philosophy, Sun Yat-sen University, China.</span>
-                </li>
-                <li>
-                    <span class="cv-date">2006 – 2010</span>
-                    <span>BA in Software Engineering, <a href="https://en.wikipedia.org/wiki/Guangzhou_University">Guangzhou University</a>, China.</span>
-                </li>
-            </ul>
 
             <!-- Publications -->
             <h2 class="section-title" id="publications">Publications</h2>
@@ -444,7 +424,7 @@
                 This page is my curated publication list and includes journal articles, conference papers, books, book chapters, and Chinese-language publications. <a href="https://dblp.org/pid/68/925-6.html" target="_blank" rel="noopener">DBLP</a> indexes a useful but partial subset of my computer-science-related work.
             </div>
 
-            <h4 class="sub-title">Selected Publications</h4>
+            <h4 class="sub-title selected-heading">Selected Publications</h4>
             <ul class="pub-list selected-list">
                 <li>
                     Weiwei Chen and Ulle Endriss, <a href="pdf/ChenEndrissAIJ2019.pdf">Preservation of Semantic Properties in Collective Argumentation: The Case of Aggregating Abstract Argumentation Frameworks</a>. <span class="pub-venue">Artificial Intelligence, 269: 27–48, 2019.</span>
@@ -475,6 +455,13 @@
 
             <h4 class="sub-title">Journal Articles and Conference Papers</h4>
             <ul class="pub-list">
+                
+                <li>
+                    Weiwei Chen, Semantic Preservation and Strategic Robustness in Extension Aggregation. <span class="pub-venue">In Proceedings of the 23rd Pacific Rim International Conference on Artificial Intelligence (PRICAI 2026), forthcoming.</span>
+                </li>
+                <li>
+                    Weiwei Chen and Xiaolong Liu, Collective Argumentation with Labellings: A Dynamic Impossibility Perspective. <span class="pub-venue">In <a href="https://www.zlaire.net/lngai2026/" target="_blank" rel="noopener">Proceedings of the Sixth International Workshop on Logics and Argumentation for New-Generation Artificial Intelligence (LNGAI 2026)</a>, College Publications, forthcoming.</span>
+                </li>
                 <li>
                     Yutong Yi and Weiwei Chen, External Semantics for Argumentation Frameworks. <span class="pub-venue">Proceedings of the 11th International Conference on Computational Models of Argument, IOS Press, 2026.</span>
                 </li>
@@ -547,6 +534,10 @@
                     陈伟伟, 《论辩聚合：社会选择理论的新视角》. <span class="pub-venue">人民出版社, forthcoming.</span>
                 </li>
                 <li>
+                    陈伟伟, 《阿姆斯特丹大学的逻辑学传统与硕士教育》. <span class="pub-venue">载《哲学教育评论（第三辑）：逻辑学专辑——推古论今辩东西》, 张伟主编, 刘海林执行主编, 商务印书馆, 2025.</span>
+                    <a class="doi-link" href="https://mp.weixin.qq.com/s/tZx44DIMKa52Heoag60qbQ" target="_blank" rel="noopener">Book notice</a>
+                </li>
+                <li>
                     刘小龙、陈伟伟, 《论证挖掘与论证形式化》第十二章. <span class="pub-venue">鞠实儿等著, 科学出版社, 2022.</span>
                 </li>
                 <li>
@@ -600,30 +591,47 @@
 
         </div><!-- /main column -->
 
-        <!-- Sidebar -->
-        <div class="col-md-4 order-md-2 order-1">
+        <!-- Profile and career details -->
+        <div class="col-md-4">
             <div class="profile-card">
-                <h4>Weiwei Chen</h4>
-                <div class="title-line">Argumentation &amp; Social Choice</div>
-                <img src="face.jpg" alt="Portrait of Weiwei Chen">
+                <h3>Academic profile</h3>
+                <p class="profile-label">Contact</p>
                 <div class="address">
-                    <a class="email-link" href="mailto:chenweiwei@mail.sysu.edu.cn">chenweiwei@mail.sysu.edu.cn</a><br><br>
+                    <a class="email-link" href="mailto:chenweiwei@mail.sysu.edu.cn">chenweiwei@mail.sysu.edu.cn</a><br>
                     Associate Professor<br>
                     Institute of Logic and Cognition<br>
                     Department of Philosophy<br>
                     <a href="https://www.sysu.edu.cn/" target="_blank" rel="noopener">Sun Yat-sen University</a><br>
                     Guangzhou 510275, China
                 </div>
-                <div class="profile-links">
+                <div class="profile-section">
+                    <p class="profile-label">Profiles</p>
+                    <div class="profile-links">
                     <a href="cn.html" lang="zh-CN">中文主页</a>
                     <a href="cv/Weiwei_Chen_CV.pdf" target="_blank" rel="noopener">CV</a>
                     <a href="https://scholar.google.com/citations?user=I8ISBZAAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
                     <a href="https://orcid.org/0000-0002-3447-8163" target="_blank" rel="noopener">ORCID</a>
                     <a href="https://dblp.org/pid/68/925-6.html" target="_blank" rel="noopener">DBLP</a>
                     <a href="https://philosophy.sysu.edu.cn/teacher/ChenWeiwei" target="_blank" rel="noopener">Faculty Page</a>
+                    </div>
                 </div>
-                <div class="profile-note">DBLP indexes a partial subset of my computer-science-related publications. The complete curated list is maintained on this page.</div>
-                <div class="last-updated">Last updated: June 16, 2026</div>
+                <div class="profile-section">
+                    <p class="profile-label">Appointments</p>
+                    <ul class="mini-timeline">
+                        <li><time>2024–present</time><span>Associate Professor, Sun Yat-sen University</span></li>
+                        <li><time>2019–2024</time><span>Postdoctoral Researcher, then Associate Researcher, Sun Yat-sen University</span></li>
+                    </ul>
+                </div>
+                <div class="profile-section">
+                    <p class="profile-label">Education</p>
+                    <ul class="mini-timeline">
+                        <li><time>2015–2019</time><span>PhD in Logic, Sun Yat-sen University</span></li>
+                        <li><time>2016–2017</time><span>Visiting PhD Student, ILLC, University of Amsterdam</span></li>
+                        <li><time>2013–2015</time><span>MSc in Logic, Sun Yat-sen University</span></li>
+                        <li><time>2006–2010</time><span>BA in Software Engineering, Guangzhou University</span></li>
+                    </ul>
+                </div>
+                <div class="last-updated">Last updated: August 20, 2026</div>
             </div>
         </div>
 

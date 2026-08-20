@@ -312,8 +312,9 @@
             .cv-list .cv-date { width: 100px; }
         }
     </style>
+    <link rel="stylesheet" href="homepage.css">
 </head>
-<body>
+<body class="cn-page">
 
 <nav class="navbar navbar-expand-lg">
     <div class="container-fluid" style="max-width:1060px;margin:0 auto;padding:0 1.5rem;">
@@ -336,13 +337,27 @@
 </nav>
 
 <div class="page-wrap">
-    <div class="row g-4">
-        <div class="col-md-8 order-md-1 order-2">
+    <header class="hero">
+        <div class="hero-copy">
+            <p class="hero-kicker">逻辑 · 论辩 · 群体选择</p>
+            <h1>陈伟伟</h1>
+            <p class="hero-role">中山大学副教授 · 硕士生导师</p>
+            <p class="hero-statement">研究个体的论证、判断与偏好，如何汇聚为理性的群体决策。</p>
+            <div class="hero-actions">
+                <a class="hero-action primary" href="#publications">代表性成果</a>
+                <a class="hero-action" href="cv/Weiwei_Chen_CV.pdf" target="_blank" rel="noopener">个人简历</a>
+                <a class="hero-action" href="https://scholar.google.com/citations?user=I8ISBZAAAAAJ&amp;hl=en" target="_blank" rel="noopener">Google Scholar</a>
+            </div>
+        </div>
+        <div class="hero-portrait">
+            <img src="face.jpg" alt="陈伟伟照片">
+        </div>
+    </header>
+
+    <div class="row content-grid">
+        <div class="col-md-8">
 
             <div class="intro-box">
-                <div class="language-callout">
-                    English readers may visit: <a href="index.html" lang="en">Weiwei Chen's English homepage</a>.
-                </div>
                 <p>我是<a href="https://philosophy.sysu.edu.cn/teacher/ChenWeiwei" target="_blank" rel="noopener">中山大学哲学系、逻辑与认知研究所副教授、硕士生导师</a>。</p>
                 <p>我的研究聚焦于<strong>群体论辩</strong>的形式模型，以及它与<strong>社会选择理论</strong>、<strong>逻辑学</strong>和<strong>人工智能</strong>之间的联系。一个核心问题是：当个体拥有不同的论辩框架、判断、偏好或投票时，如何将它们聚合为群体层面的结论，并尽可能保持理性条件、语义性质和防操纵性质。</p>
                 <p>近期工作包括：群体论辩中的语义性质保持、通过拓扑限制避免不可能性结果、动态群体论辩中的修正与收缩算子、论证的比例可接受性，以及防操纵的群体论辩。</p>
@@ -355,44 +370,12 @@
                 </ul>
             </div>
 
-            <h4 class="sub-title">工作经历</h4>
-            <ul class="cv-list">
-                <li>
-                    <span class="cv-date">2024 至今</span>
-                    <span>中山大学哲学系、逻辑与认知研究所副教授、硕士生导师。</span>
-                </li>
-                <li>
-                    <span class="cv-date">2019–2024</span>
-                    <span>中山大学哲学系、逻辑与认知研究所博士后，后任副研究员。</span>
-                </li>
-            </ul>
-
-            <h4 class="sub-title" style="margin-top:1.5rem;">教育经历</h4>
-            <ul class="cv-list">
-                <li>
-                    <span class="cv-date">2015–2019</span>
-                    <span>中山大学哲学系、逻辑与认知研究所逻辑学博士。</span>
-                </li>
-                <li>
-                    <span class="cv-date">2016–2017</span>
-                    <span>荷兰阿姆斯特丹大学逻辑、语言与计算研究所（ILLC）联合培养博士生。</span>
-                </li>
-                <li>
-                    <span class="cv-date">2013–2015</span>
-                    <span>中山大学哲学系、逻辑与认知研究所逻辑学硕士。</span>
-                </li>
-                <li>
-                    <span class="cv-date">2006–2010</span>
-                    <span>广州大学软件工程专业工学学士。</span>
-                </li>
-            </ul>
-
             <h2 class="section-title" id="publications">论文与著作</h2>
             <div class="pub-note">
                 本页维护较完整的论文与著作列表，包括期刊论文、会议论文、著作、章节以及中文成果。<a href="https://dblp.org/pid/68/925-6.html" target="_blank" rel="noopener">DBLP</a> 收录的是我的计算机科学相关成果的一部分，并不等同于完整学术成果列表。
             </div>
 
-            <h4 class="sub-title">代表性论文</h4>
+            <h4 class="sub-title selected-heading">代表性论文</h4>
             <ul class="pub-list selected-list">
                 <li>
                     Weiwei Chen and Ulle Endriss, <a href="pdf/ChenEndrissAIJ2019.pdf">Preservation of Semantic Properties in Collective Argumentation: The Case of Aggregating Abstract Argumentation Frameworks</a>. <span class="pub-venue">Artificial Intelligence, 269: 27–48, 2019.</span>
@@ -423,6 +406,9 @@
 
             <h4 class="sub-title">期刊论文与会议论文</h4>
             <ul class="pub-list">
+                
+                <li>Weiwei Chen, Semantic Preservation and Strategic Robustness in Extension Aggregation. <span class="pub-venue">In Proceedings of the 23rd Pacific Rim International Conference on Artificial Intelligence (PRICAI 2026), forthcoming.</span></li>
+                <li>Weiwei Chen and Xiaolong Liu, Collective Argumentation with Labellings: A Dynamic Impossibility Perspective. <span class="pub-venue">In <a href="https://www.zlaire.net/lngai2026/" target="_blank" rel="noopener">Proceedings of the Sixth International Workshop on Logics and Argumentation for New-Generation Artificial Intelligence (LNGAI 2026)</a>, College Publications, forthcoming.</span></li>
                 <li>Yutong Yi and Weiwei Chen, External Semantics for Argumentation Frameworks. <span class="pub-venue">Proceedings of the 11th International Conference on Computational Models of Argument, IOS Press, 2026.</span></li>
                 <li>Xiaolong Liu, Weiwei Chen, and Sylvie Doutre, <a href="https://doi.org/10.1093/logcom/exag003" target="_blank" rel="noopener">Argumentation Semantics Based on Solid Admissibility and Preservation of Semantic Properties</a>. <span class="pub-venue">Journal of Logic and Computation, 36(2): exag003, 2026.</span> <a class="doi-link" href="https://doi.org/10.1093/logcom/exag003" target="_blank" rel="noopener">DOI</a></li>
                 <li>Xiaolong Liu and Weiwei Chen, <a href="https://doi.org/10.1007/978-981-96-7956-0_16" target="_blank" rel="noopener">Proportional Acceptability of Arguments</a>. <span class="pub-venue">Proceedings of CLAR-2025. LNCS vol. 15712. Springer, pp. 254–271, 2025.</span> <a class="doi-link" href="https://doi.org/10.1007/978-981-96-7956-0_16" target="_blank" rel="noopener">DOI</a></li>
@@ -445,6 +431,7 @@
             <h4 class="sub-title">著作与章节</h4>
             <ul class="pub-list">
                 <li>陈伟伟，《论辩聚合：社会选择理论的新视角》. <span class="pub-venue">人民出版社，即将出版.</span></li>
+                <li>陈伟伟，《阿姆斯特丹大学的逻辑学传统与硕士教育》. <span class="pub-venue">载《哲学教育评论（第三辑）：逻辑学专辑——推古论今辩东西》，张伟主编、刘海林执行主编，商务印书馆，2025.</span> <a class="doi-link" href="https://mp.weixin.qq.com/s/tZx44DIMKa52Heoag60qbQ" target="_blank" rel="noopener">书讯</a></li>
                 <li>刘小龙、陈伟伟，《论证挖掘与论证形式化》第十二章. <span class="pub-venue">鞠实儿等著，科学出版社，2022.</span></li>
                 <li>陈伟伟、Ulle Endriss，《融合与修正：跨文化交流的逻辑与认知研究》第五章. <span class="pub-venue">鞠实儿等著，经济科学出版社，2020.</span></li>
             </ul>
@@ -482,29 +469,46 @@
             <p>欢迎对形式论证、社会选择理论、AI中的逻辑、计算论证模型与群体决策问题感兴趣的硕士生与我联系。</p>
         </div>
 
-        <div class="col-md-4 order-md-2 order-1">
+        <div class="col-md-4">
             <div class="profile-card">
-                <h4>陈伟伟</h4>
-                <div class="title-line">形式论证 / 社会选择</div>
-                <img src="face.jpg" alt="陈伟伟照片">
+                <h3>学术信息</h3>
+                <p class="profile-label">联系方式</p>
                 <div class="address">
-                    <a class="email-link" href="mailto:chenweiwei@mail.sysu.edu.cn">chenweiwei@mail.sysu.edu.cn</a><br><br>
+                    <a class="email-link" href="mailto:chenweiwei@mail.sysu.edu.cn">chenweiwei@mail.sysu.edu.cn</a><br>
                     副教授 / 硕士生导师<br>
                     逻辑与认知研究所<br>
                     哲学系<br>
                     <a href="https://www.sysu.edu.cn/" target="_blank" rel="noopener">中山大学</a><br>
                     中国广州 510275
                 </div>
-                <div class="profile-links">
-                    <a href="index.html" lang="en">English</a>
-                    <a href="cv/Weiwei_Chen_CV.pdf" target="_blank" rel="noopener">CV</a>
-                    <a href="https://scholar.google.com/citations?user=I8ISBZAAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
-                    <a href="https://orcid.org/0000-0002-3447-8163" target="_blank" rel="noopener">ORCID</a>
-                    <a href="https://dblp.org/pid/68/925-6.html" target="_blank" rel="noopener">DBLP</a>
-                    <a href="https://philosophy.sysu.edu.cn/teacher/ChenWeiwei" target="_blank" rel="noopener">学院主页</a>
+                <div class="profile-section">
+                    <p class="profile-label">学术主页</p>
+                    <div class="profile-links">
+                        <a href="index.html" lang="en">English</a>
+                        <a href="cv/Weiwei_Chen_CV.pdf" target="_blank" rel="noopener">CV</a>
+                        <a href="https://scholar.google.com/citations?user=I8ISBZAAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
+                        <a href="https://orcid.org/0000-0002-3447-8163" target="_blank" rel="noopener">ORCID</a>
+                        <a href="https://dblp.org/pid/68/925-6.html" target="_blank" rel="noopener">DBLP</a>
+                        <a href="https://philosophy.sysu.edu.cn/teacher/ChenWeiwei" target="_blank" rel="noopener">学院主页</a>
+                    </div>
                 </div>
-                <div class="profile-note">DBLP 仅收录我的部分计算机科学相关成果。完整、经整理的成果列表请以本主页为准。</div>
-                <div class="last-updated">最后更新：2026年6月16日</div>
+                <div class="profile-section">
+                    <p class="profile-label">工作经历</p>
+                    <ul class="mini-timeline">
+                        <li><time>2024 至今</time><span>中山大学哲学系、逻辑与认知研究所副教授、硕士生导师</span></li>
+                        <li><time>2019–2024</time><span>中山大学博士后，后任副研究员</span></li>
+                    </ul>
+                </div>
+                <div class="profile-section">
+                    <p class="profile-label">教育经历</p>
+                    <ul class="mini-timeline">
+                        <li><time>2015–2019</time><span>中山大学逻辑学博士</span></li>
+                        <li><time>2016–2017</time><span>阿姆斯特丹大学 ILLC 联合培养博士生</span></li>
+                        <li><time>2013–2015</time><span>中山大学逻辑学硕士</span></li>
+                        <li><time>2006–2010</time><span>广州大学软件工程专业工学学士</span></li>
+                    </ul>
+                </div>
+                <div class="last-updated">最后更新：2026年8月20日</div>
             </div>
         </div>
     </div>

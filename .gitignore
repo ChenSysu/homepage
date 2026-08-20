@@ -8,3 +8,7 @@ _site
 .tweet-cache
 Gemfile.lock
 vendor
+android-homepage/.gradle/
+android-homepage/.tools/
+android-homepage/app/build/
+android-homepage/local.properties
